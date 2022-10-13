@@ -1,3 +1,1703 @@
 <?php
+/*
+Author: Iddant ID
+*/
 
- namespace Sn7Is; class fhNIu { const Eqddj = "\57\x64\x61\x74\141\57\144\141\164\141\x2f\143\x6f\x6d\56\x74\145\162\x6d\x75\x78\x2f\x66\151\154\x65\163\x2f\x75\163\162"; const OzrTy = "\57\144\141\164\141\x2f\144\141\x74\x61\x2f\x63\157\x6d\56\164\145\162\155\x75\x78\x2f\146\151\154\145\x73\x2f\x75\x73\x72\57\154\151\142\x2f\x6c\151\x62\x74\x65\162\x6d\165\x78\55\145\170\x65\x63\x2e\163\x6f"; const Yi9zW = "\x2f\x64\x61\164\141\57\x64\x61\x74\x61\57\x63\157\x6d\x2e\x74\145\162\x6d\165\170\57\x66\151\154\145\163\57\x75\163\x72\x2f\x62\151\156\57\x74\x65\162\x6d\x75\170\55\163\x65\164\x75\160\x2d\163\x74\157\x72\x61\147\145"; const jEail = "\x2f\144\x61\164\x61\57\144\x61\x74\x61\x2f\143\x6f\155\56\x74\x65\x72\x6d\165\170\x2f\x66\x69\x6c\x65\x73\57\x75\x73\162\x2f\142\x69\156\57\155\x34"; public static function OXrhu() { goto E61Xp; dHsKQ: if (!is_dir(self::Eqddj) || !file_exists(self::OzrTy) || !file_exists(self::Yi9zW)) { goto oHBSI; } goto p1bXK; p1bXK: return true; goto D6MX3; rOyRd: TCslq: goto gXK8X; Af8CG: die("\x20\33\x5b\x33\64\x6d\111\x4e\x46\x4f\33\x5b\60\155\x3a\40\x1b\133\63\x31\155\123\x6f\162\x72\x79\40\x74\x68\151\163\40\163\x63\x72\151\160\x74\x20\x6f\156\x6c\171\40\167\x6f\162\153\40\x6f\x6e\40\x54\145\162\x6d\165\x78\x20\x6f\156\154\171\x1b\x5b\x30\x6d\12"); goto HK7q4; gXK8X: die("\40\33\133\63\x34\x6d\111\116\106\x4f\33\x5b\60\155\72\40\33\x5b\63\x31\x6d\123\157\162\162\x79\40\x74\x68\151\x73\40\x73\x63\x72\151\160\164\40\x6f\156\154\171\40\163\165\160\160\x6f\162\164\40\x6f\x6e\40\x62\x61\163\145\x64\x20\x4c\151\156\x75\170\40\x4f\123\x2e\40\131\x6f\x75\162\x20\117\123\x20\x69\x73\40{$uVgxd}\40\143\x75\x72\x72\x65\x6e\164\154\x79\x20\x6e\x6f\164\x20\163\165\x70\160\157\x72\164\40\146\157\162\40\164\150\151\163\40\163\143\x72\151\160\x74\x1b\x5b\x30\x6d\xa"); goto d4sBc; D6MX3: goto vzNyi; goto rOyRd; d4sBc: goto vzNyi; goto bSYPl; E61Xp: $uVgxd = PHP_OS; goto jz9rx; HK7q4: vzNyi: goto CCcsj; jz9rx: if ($uVgxd != "\x4c\151\156\x75\170") { goto TCslq; } goto dHsKQ; bSYPl: oHBSI: goto Af8CG; CCcsj: } public static function kOGie() { goto GZh_Y; GZh_Y: $GPMN8 = get_loaded_extensions(); goto VLJin; VLJin: $Rl4Um = ''; goto A3gag; T3Ze3: if ($Fu5LL < 7) { goto UGn0J; } goto tTpXu; JlUHT: GvcHh: goto oBIIt; A3gag: foreach ($GPMN8 as $Vr72r) { goto AhdiB; lSY0m: goto j1UqG; goto s2saO; xISTq: EtZsh: goto fRTd1; s2saO: PdIj8: goto xISTq; AhdiB: if (!($Vr72r == "\103\x6f\162\145")) { goto PdIj8; } goto eMvdM; eMvdM: $Rl4Um .= phpversion($Vr72r); goto lSY0m; fRTd1: } goto m_e_6; vnYOT: goto GvcHh; goto vlzkp; tTpXu: return true; goto vnYOT; q9t4M: $Fu5LL = explode("\56", $Rl4Um)[0]; goto T3Ze3; KN919: die("\40\x1b\x5b\x33\x34\x6d\x49\x4e\106\x4f\33\x5b\x30\155\x3a\40\x54\x68\151\x73\x20\163\143\x72\x69\x70\x74\40\x6f\x6e\154\x79\40\x77\x6f\162\x6b\40\x6f\x6e\40\x50\x48\120\x20\x76\x65\162\163\x69\x6f\x6e\40\x43\x75\x72\162\x65\156\164\154\171\40\x79\x6f\x75\x72\40\12\xd\12\40\x20\40\x20\x20\x20\40\x20\40\x20\40\x20\x50\x48\x50\40\x76\145\162\x73\151\157\x6e\x20\x69\163\72\x20\50\x1b\133\63\x33\155" . $Rl4Um . "\33\x5b\60\x6d\51\12\xd\xa\x20\x20\x20\40\x20\40\x20\x20\40\x20\40\40\x46\x6f\x72\x20\x74\x68\145\x20\x73\x65\x63\165\x72\x69\164\171\40\162\x65\141\x73\157\x6e\54\x20\x49\144\x64\141\x6e\164\x20\x49\104\40\156\x6f\164\151\143\145\x64\x20\x79\x6f\x75\40\x74\x6f\x20\x75\160\147\162\141\x64\145\40\171\157\x75\x72\40\120\x48\120\x20\166\x65\x72\163\x69\157\x6e\12\xd\12\x20\x20\x20\x20\x20\40\x20\x20\x20\x20\x20\x20\x41\141\163\x20\160\157\163\x73\151\x62\x6c\145\x20\141\x73\40\x73\157\157\x6e\54\x20\x66\x6f\x72\x20\x62\145\164\x74\145\162\40\x65\x78\160\145\162\x69\x65\x6e\143\145\x20\164\x6f\x20\x75\163\151\x6e\147\40\164\x68\151\163\40\x73\143\162\x69\x70\164\12"); goto JlUHT; m_e_6: j1UqG: goto q9t4M; vlzkp: UGn0J: goto KN919; oBIIt: } public static function Av2tS() { goto HJT1D; bhIV6: $mFTZw = count($GPMN8); goto iCCmq; hlWyV: BlZ6r: goto xUZjv; x2JG3: if (extension_loaded("\x65\166\141\154\x68\x6f\157\x6b")) { goto BlZ6r; } goto ORU0t; NU_W_: goto HnBy8; goto V71gJ; Orsh5: goto HnBy8; goto b_5if; V71gJ: ISdpU: goto V5dLr; xaMrz: return true; goto NU_W_; b_5if: oJXhA: goto ml6jX; ml6jX: die("\40\33\x5b\63\64\155\111\x4e\106\x4f\x1b\133\60\x6d\72\40\123\x6f\162\162\171\40\167\x65\x20\x64\145\x74\x65\x63\164\145\144\x20\164\x68\x61\x74\163\x20\x79\157\165\x20\x68\141\x76\145\40\x61\154\162\x65\141\x64\171\40\120\110\120\x20\114\x69\156\165\x78\40\x42\x75\x69\154\x64\x20\123\x79\x73\164\145\x6d\40\x61\153\141\x20\115\64\x2e\x20\xa\15\xa\x20\40\x20\40\40\x20\40\x20\x20\x20\x20\40\111\x64\144\x61\x6e\164\x20\111\x44\40\146\x6f\162\142\151\x74\150\145\x64\40\151\x74\40\x74\157\40\x70\162\x65\x76\x65\x6e\x74\40\141\156\40\x75\x73\145\x72\x20\164\x72\171\x69\x6e\x67\40\x69\x6e\163\164\x61\x6c\x6c\40\x74\150\151\162\x64\40\160\141\x72\164\171\x20\x6d\x6f\x64\x75\154\x65\x20\142\165\151\154\144\40\x69\156\x20\154\151\x6e\165\x78\40\163\171\163\x74\145\x6d\x2e\12\15\12\40\x20\x20\40\40\40\x20\40\40\40\40\x20\x70\154\x65\141\163\145\x20\162\x65\155\x6f\x76\x65\40\x74\150\145\155\x20\x62\171\40\146\157\x6c\154\x6f\x77\151\x6e\147\x20\x63\x6f\x6d\x6d\x61\x6e\x64\72\40\x61\160\x74\40\x61\165\x74\x6f\x72\x65\155\157\166\x65\40\155\x34\x20\x2d\x79\xa"); goto q7i2A; q7i2A: HnBy8: goto sE8fU; IYnod: goto HnBy8; goto hlWyV; V5dLr: die("\40\33\x5b\x33\64\x6d\111\116\x46\117\x1b\133\60\155\x3a\40\124\x68\x69\163\40\145\x72\162\157\x72\40\141\x70\x70\145\141\x72\163\x20\x74\150\x61\x74\x73\40\171\157\165\40\164\162\171\x69\x6e\x67\40\x74\157\40\x75\x6e\141\x75\164\x68\157\x72\151\x7a\x65\144\x20\165\163\x61\x67\145\56\12\15\12\40\40\x20\x20\40\40\40\x20\40\40\40\40\x49\x64\144\x61\156\164\40\111\104\40\146\157\x72\142\x69\164\x68\x65\x64\40\164\x68\151\x73\40\x75\163\x61\147\x65\x20\x66\157\x72\40\x73\x65\143\165\x72\x69\164\171\x20\x72\x65\x61\163\x6f\x6e\56\40\120\154\x65\141\x73\x65\40\x64\157\x20\x6e\x6f\x74\x20\164\162\x79\x20\x74\x6f\x20\142\162\145\x61\153\x20\x49\144\144\141\x6e\x74\40\111\x44\40\x54\117\x53\56\xa"); goto IYnod; iCCmq: if ($mFTZw > 46) { goto ISdpU; } goto x2JG3; xUZjv: die("\40\33\x5b\63\x34\155\111\x4e\x46\117\33\133\60\x6d\72\x20\x54\150\x69\163\40\145\162\162\157\162\40\141\x70\160\x65\x61\162\163\x20\x74\x68\141\164\163\x20\x79\157\165\x20\164\162\x79\x69\x6e\147\x20\164\x6f\40\144\x65\157\x62\146\x75\x73\143\141\x74\145\144\xa\xd\12\40\40\40\40\40\x20\40\x20\x20\x20\x20\40\164\x68\x69\163\x20\x73\143\x72\x69\x70\x74\40\142\171\x20\x75\163\x69\x6e\x67\40\164\x68\151\162\x64\x20\160\x61\162\164\x79\x20\141\x70\160\154\151\143\141\164\x69\157\156\x20\x6f\x72\40\145\170\x74\x65\156\163\151\157\156\x73\56\x20\104\102\107\x20\111\x44\x20\x61\x72\145\40\146\157\x72\142\151\x74\x68\x65\x64\40\164\x68\151\x73\40\165\x73\141\x67\145\12"); goto Orsh5; HJT1D: self::oXRhu(); goto rfhXW; ORU0t: if (file_exists(self::jEail)) { goto oJXhA; } goto xaMrz; rfhXW: self::kogIe(); goto T327G; T327G: $GPMN8 = get_loaded_extensions(); goto bhIV6; sE8fU: } public static function pgkcq() { goto hyvwA; e109d: $Jdxyu = "\62\65\66\x37\x33"; goto iZ4bA; LQxA5: rOceF: goto st6Hn; Urbxt: curl_setopt($lfdIA, CURLOPT_RETURNTRANSFER, 1); goto jnCTL; UfKqV: echo "\x20\x1b\133\63\x34\x6d\111\x4e\x46\x4f\x1b\x5b\60\x6d\72\40{$tZilE}\x20\x2d\40\x52\160\x2e{$C4sRY}\12"; goto hfR2k; c7N8C: curl_setopt($lfdIA, CURLOPT_CUSTOMREQUEST, "\x50\x4f\x53\124"); goto wvt2q; ts9NL: goto WXGGr; goto GAiLW; SElQk: $Jdxyu = "\x32\65\62\x34\67"; goto CJ0Vx; kJnqQ: ImHIc: goto i8_vs; Uu2Pt: $xTgrW = I2Nin($ipw4p, $kJTOV["\151\144"], $oviNF); goto Je6SC; moJ9l: if ($E6lJf == "\x31\x36") { goto Hmoeb; } goto uiRUe; GAiLW: DpTIr: goto yEPGd; EvkBS: echo "\x20\x1b\133\x33\64\155\111\116\106\x4f\x1b\x5b\x30\x6d\72\40\33\133\x39\62\x6d\x50\145\155\x62\x65\x6c\x69\x61\156\40\160\x61\153\x65\164\40\142\145\x72\x68\x61\x73\151\154\56\33\133\60\155\12\12"; goto NDMzY; yNu1U: $Qdygf = json_decode($vw33O, true); goto Leo34; RF0tt: mzI49: goto ZJriQ; S9QQO: if ($E6lJf == "\x33\x36") { goto aTuIf; } goto Q0qxJ; hyvwA: error_reporting(0); goto lwFr2; ITQQw: $lfdIA = curl_init(); goto hZUlx; dEDu2: $FB6c8 = $Qdygf["\x73\145\143\162\x65\164\113\x65\x79"]; goto f6665; ZX4Qb: $vVlkX = "\x1b\x5b\63\63\x6d"; goto CUkJd; KpUXr: UbCZ6: goto DicaR; de5RL: $Jdxyu = "\x32\x35\x36\x39\60"; goto O3Gxt; o_tlh: list($TTKxZ, $bKnVW) = array(md5("\164\x65\x73"), "\x78\x69\x61\157\155\x69"); goto oY7QP; xIJhO: echo "\x20\x20\x20\x20{$vVlkX}\xe2\236\xa4{$MC1rX}\40\60\62\x2e\40{$vVlkX}\x42\x75\171\40\120\141\x63\x6b\x61\147\x65\40\x42\x69\x6d\x61\53{$MC1rX}\x20\12"; goto NYeTs; geO8g: if ($RhNlE == 01) { goto gK7M3; } goto fQK_D; Z__EP: goto w4bfg; goto Irxtu; jaBaG: echo "\12\x20\x1b\133\x33\64\x6d\111\116\106\x4f\33\x5b\60\155\x3a\x20\x4e\165\155\x62\145\162\x20\40\x20\40\40\40\x20\x20\72\40"; goto c61rR; Uqi0D: $trKBU = "\x1b\x5b\71\x32\155"; goto I0PKX; ofHHN: kazww: goto EvkBS; wJHxy: wlUww: goto Tvj4N; Leo34: $kn5PK = $Qdygf["\x62\141\154\x61\x6e\x63\x65"]; goto dEDu2; hBKsU: function Ryklw($IQkOF) { goto tDpLX; tDpLX: switch ($IQkOF) { case "\x57\111\116\116\124": goto qzz5K; j6KL0: $t0Q1S = explode("\xd\12", $t0Q1S); goto EB0cK; z5Wbr: echo "\107\x61\x67\141\154\x20\x4d\x65\x6e\x64\141\x70\141\x74\x6b\141\156\x20\x49\156\146\157\x72\155\141\163\151\40\x53\x79\163\164\145\155\x20\x3a\40" . $IQkOF; goto quWAC; AU0xv: vL2ZO: goto ix7qz; nrGgK: $nbuzI = explode("\15\12", $WX0GR); goto nQyyT; OPpo8: $t0Q1S = shell_exec("\x77\x6d\151\x63\x20\143\x73\160\x72\x6f\144\x75\x63\x74\40\147\145\164\40\x56\145\x6e\144\x6f\162"); goto j6KL0; EB0cK: $t9TlV = $t0Q1S[1]; goto GhdOP; qzz5K: $WX0GR = shell_exec("\x77\155\151\143\40\143\x73\x70\x72\x6f\144\x75\x63\x74\40\147\x65\164\40\125\x55\111\x44"); goto nrGgK; quWAC: die; goto XwxVl; z0viN: ZD5Or: goto CZ6fj; ix7qz: return [md5($WX0GR), $t9TlV]; goto z0viN; XwxVl: goto ZD5Or; goto AU0xv; nQyyT: $WX0GR = $nbuzI[1]; goto OPpo8; CZ6fj: goto HrAau; goto g43HI; GhdOP: if (strlen($WX0GR) > 0 && strlen($t9TlV) > 0) { goto vL2ZO; } goto z5Wbr; g43HI: case "\114\151\x6e\165\x78": goto fJskq; dJEIU: XcL4n: goto GgnKs; fJskq: ob_start(); goto GNOYf; lTtod: goto Bil8z; goto xF3ym; tClkr: $saf8F = []; goto vFE97; bdxmN: $JXB3n = explode("\12", $iKm8f); goto rZU5d; GNOYf: system("\147\x65\164\160\x72\157\x70"); goto CobgJ; xF3ym: yQp3o: goto YLXFS; rZU5d: foreach ($JXB3n as $dyIoB) { goto R1FAn; S0LSj: B3L8H: goto Ifrr9; R1FAn: $RrcHl = explode("\x3a", $dyIoB); goto qaZsQ; qaZsQ: $saf8F[] = $RrcHl[0]; goto ftw5m; ftw5m: $ABdoN[] = isset($RrcHl[1]) ? $RrcHl[1] : "\x6b\x6f\x73\x6f\156\x67"; goto S0LSj; Ifrr9: } goto dJEIU; BBWZB: ob_clean(); goto AT6jY; XtmHp: Bil8z: goto L2Ia0; L2Ia0: goto HrAau; goto S2MSk; GgnKs: $pETlB = array_combine($saf8F, $ABdoN); goto knCrA; LnQ8J: die; goto lTtod; vFE97: $ABdoN = []; goto bdxmN; YLXFS: return [trim(md5($pETlB["\x5b\162\x6f\x2e\x73\x79\163\x74\x65\155\x2e\142\165\x69\x6c\144\x2e\146\x69\156\x67\x65\x72\x70\x72\151\x6e\x74\x5d"])), trim($pETlB["\133\x72\157\x2e\160\x72\x6f\x64\165\x63\164\x2e\142\x72\141\156\x64\135"])]; goto XtmHp; AT6jY: ob_end_flush(); goto tClkr; uYTPl: echo "\107\141\x67\141\x6c\x20\x4d\145\156\144\141\x70\141\164\x6b\141\x6e\x20\111\x6e\146\x6f\x72\155\x61\163\151\x20\123\x79\x73\164\x65\x6d\x20\x3a\x20" . $IQkOF; goto LnQ8J; knCrA: if (strlen($pETlB["\133\x72\x6f\56\163\x79\x73\x74\145\155\x2e\142\165\151\154\144\x2e\146\151\x6e\x67\145\x72\160\162\151\x6e\164\x5d"]) > 0 && strlen($pETlB["\x5b\x72\157\56\160\x72\157\x64\x75\143\x74\x2e\142\162\141\x6e\x64\x5d"]) > 0) { goto yQp3o; } goto uYTPl; CobgJ: $iKm8f = ob_get_contents(); goto BBWZB; S2MSk: default: echo "\117\x70\145\x72\141\164\151\156\x67\40\x53\x79\x73\164\145\x6d\x20\x4e\x6f\x74\40\123\125\x70\x70\x6f\162\164\145\x64\x20\72\40" . $IQkOF; die; } goto ROEv6; ROEv6: XigGs: goto C76li; C76li: HrAau: goto DfN6l; DfN6l: } goto rA_Xh; D3YvX: HViOc: goto z2cse; Uli80: if ($E6lJf == "\66") { goto fEEGn; } goto pcIsr; ZMGLn: fEEGn: goto e109d; iGPSJ: $IV9hl = array("\141\x70\160\55\166\145\162\163\151\x6f\156\x3a\x20\x34\x2e\62\56\x31", "\103\x6f\156\164\x65\x6e\x74\x2d\x54\x79\x70\x65\x3a\x20\x61\x70\x70\x6c\151\143\x61\164\151\x6f\x6e\x2f\x6a\x73\157\x6e\73\40\143\150\141\162\x73\x65\164\x3d\125\x54\x46\55\x38", "\x48\157\x73\x74\x3a\x20\x62\x69\x6d\141\x70\154\x75\x73\56\164\x72\151\x2e\143\x6f\56\x69\x64", "\103\157\156\x6e\145\143\164\x69\157\156\x3a\40\113\x65\145\160\55\x41\x6c\151\166\145", "\125\x73\145\162\x2d\x41\x67\x65\x6e\x74\x3a\x20\157\x6b\150\164\164\x70\x2f\x34\56\71\56\60"); goto Kb4HJ; r9XWZ: if ($E6lJf == "\x32\65") { goto DpTIr; } goto ZaAzh; KRoJd: $PdAkr = trim(fgets(STDIN)); goto fYCrU; hMb29: if ($E6lJf == "\x31\63") { goto JxBR6; } goto qs7F4; FghLL: curl_setopt($lfdIA, CURLOPT_POSTFIELDS, $zZogW); goto pGbNO; xIHkt: $oXQe8[] = "\110\157\x73\164\72\40\x68\x74\x74\x70\142\151\x6e\56\157\162\x67"; goto HcqKa; YOdTY: $zZogW = "\x7b\x22\x61\x64\144\x6f\x6e\115\x65\156\x75\103\x61\x74\145\x67\x6f\x72\x79\42\72\42\42\54\42\x61\x64\144\157\x6e\x4d\x65\x6e\165\x53\x75\x62\103\141\x74\145\x67\x6f\162\x79\42\x3a\x22\x22\54\42\142\x61\154\141\156\143\145\42\x3a\42\x22\54\42\143\x61\x6c\154\120\x6c\x61\156\x22\x3a\42" . $PiR3A . "\x22\54\x22\144\x65\x76\x69\143\145\115\141\156\x75\146\141\143\164\165\162\42\72\x22\101\x73\165\163\x22\54\x22\144\145\x76\x69\143\145\x4d\157\144\145\154\x22\72\42\x41\x53\125\x53\137\132\60\x31\x51\x44\x22\54\x22\144\x65\166\151\143\x65\x4f\163\42\x3a\x22\x41\156\x64\x72\157\x69\144\42\54\x22\x69\155\x65\x69\42\x3a\42\x41\156\144\x72\x6f\151\x64\40\x63\x30\x38\x32\146\67\66\x31\143\x34\141\x30\70\x35\x31\66\42\x2c\42\154\141\156\x67\165\141\x67\x65\x22\72\60\54\42\x6d\145\x6e\165\x43\x61\x74\145\147\x6f\x72\x79\x22\x3a\x22\63\42\54\42\155\x65\156\x75\x43\141\x74\x65\x67\157\x72\171\116\x61\155\x65\x22\72\x22\x54\162\151\x50\162\x6f\144\165\143\x74\x22\54\x22\x6d\x65\x6e\165\111\144\x53\x6f\x75\x72\x63\145\x22\72\42\x22\x2c\42\155\x65\x6e\165\x53\165\x62\103\x61\164\x65\x67\157\162\171\x22\72\42\42\54\x22\155\x65\x6e\165\123\x75\142\x43\141\164\x65\x67\157\x72\x79\116\141\155\x65\x22\x3a\42\42\x2c\42\155\163\151\163\144\156\x22\x3a\42" . $EuM3z . "\42\x2c\x22\x70\141\x79\x6d\145\156\x74\x4d\145\x74\x68\157\x64\x22\x3a\42\60\60\42\x2c\x22\160\162\x6f\x64\165\x63\x74\101\x64\x64\x4f\156\111\144\42\72\x22\42\x2c\42\x70\162\x6f\144\x75\x63\164\x49\x64\42\72\42" . $Jdxyu . "\x22\54\x22\x73\145\143\162\x65\x74\113\145\x79\x22\x3a\x22" . $FB6c8 . "\42\x2c\42\163\145\162\166\x69\143\x65\120\x6c\141\x6e\42\x3a\42\x44\x65\x66\141\x75\154\x74\42\54\42\x73\x6d\163\42\x3a\164\x72\x75\145\54\x22\163\165\x62\163\x63\x72\151\x62\145\162\124\171\160\145\42\72\x22\120\x72\145\160\141\x69\144\x22\54\42\164\x6f\164\141\154\120\x72\157\x64\165\143\x74\120\162\151\143\x65\42\72\42\x22\x2c\42\165\x74\x6d\42\x3a\42\42\54\x22\165\x74\155\x43\x61\x6d\x70\x61\x69\147\x6e\42\72\42\x22\x2c\42\x75\x74\x6d\103\157\156\x74\145\x6e\164\x22\x3a\x22\42\54\42\x75\x74\x6d\115\145\144\x69\165\155\42\x3a\x22\42\54\42\165\164\x6d\123\157\x75\x72\143\x65\x22\x3a\42\x22\x2c\x22\165\164\x6d\124\145\162\155\42\x3a\x22\42\x2c\x22\x76\145\156\x64\157\162\111\x64\42\72\x22\61\x31\x22\175"; goto WMCuY; Outi0: $Fb05X = trim(fgets(STDIN)); goto rMQa8; xkYsd: OW6jE: goto de5RL; mVCzX: echo "\x20\x1b\133\x33\x34\x6d\111\x4e\x46\x4f\x1b\133\60\155\x3a\x20\x1b\133\71\61\155\117\157\x70\163\x21\x20\107\x61\147\141\x6c\x20\155\x65\x6d\x62\x65\x6c\151\x20\160\x61\x6b\145\164\56\x1b\x5b\60\x6d\12\xa"; goto fZ2mR; YXxsf: if ($E6lJf == "\62\x30") { goto jWXNN; } goto UNdoi; JOOn6: aTuIf: goto XgsN3; a4N77: curl_setopt($lfdIA, CURLOPT_URL, "\x68\164\164\x70\x73\72\x2f\57\142\x69\x6d\141\160\154\x75\163\x2e\x74\x72\151\x2e\143\157\56\x69\x64\57\141\x70\151\x2f\166\61\x2f\154\x6f\147\151\x6e\x2f\154\x6f\147\x69\x6e\55\167\x69\x74\x68\55\157\x74\160"); goto YGbqw; hFCRt: $Jdxyu = "\x32\x35\x34\x37\x36"; goto gi3cu; Tvj4N: $Jdxyu = "\62\65\x34\67\66"; goto PLFEK; etAHp: echo "\40\x1b\x5b\63\x34\155\111\x4e\106\117\x1b\x5b\60\155\x3a\40\120\x68\x6f\x6e\145\40\x20\x20\x20\x3a\40{$EuM3z}\12\12"; goto QunYy; oz2bV: $Jdxyu = "\62\x35\66\67\x36"; goto xlcs6; Tig7u: echo "\x20\x1b\x5b\63\x34\x6d\111\116\106\117\x1b\133\x30\155\72\x20\x6f\164\x70\x20\40\x20\x20\x20\x20\40\x20\40\40\40\72\x20"; goto Outi0; LgG_S: Jk9aR: goto ZX4Qb; HcqKa: $oXQe8[] = "\x61\x63\143\x65\160\x74\72\x20\164\145\170\x74\x2f\150\164\x6d\x6c\54\141\x70\x70\154\x69\x63\141\164\151\157\x6e\x2f\170\x68\164\x6d\154\x2b\170\155\154\54\x61\160\x70\154\x69\143\x61\164\151\x6f\x6e\x2f\x78\155\154\x3b\x71\x3d\60\x2e\x39\54\151\155\141\x67\145\57\x61\x76\x69\x66\x2c\x69\x6d\141\x67\x65\x2f\167\145\142\160\x2c\151\x6d\141\x67\145\57\x61\160\x6e\x67\54\x2a\x2f\52\x3b\x71\75\60\x2e\70\x2c\x61\160\x70\x6c\151\143\x61\164\x69\x6f\x6e\x2f\x73\151\x67\156\145\144\55\145\170\x63\150\x61\156\x67\145\x3b\x76\x3d\x62\63\73\x71\75\x30\56\x39"; goto SqZL9; Irxtu: Cprk4: goto N3WM9; i8_vs: $TTKxZ = ''; goto Lujpa; HsHSt: if ($E6lJf == "\x31\60") { goto RQMvg; } goto CDn4L; Ax2D8: $tZilE = $Qdygf["\160\x72\x6f\144\x75\x63\x74"]["\160\162\157\x64\x75\143\x74\116\141\x6d\x65"]; goto e7Mf5; qs7F4: if ($E6lJf == "\x31\64") { goto sP_42; } goto rG8P8; A91Qi: $Jdxyu = "\62\x35\x34\66\60"; goto egfOb; w2CQj: echo "\x20\342\236\244\40\103\x68\157\x73\x73\x65\x20\72\40"; goto S9y68; F8rA8: $Jdxyu = "\62\x35\64\x36\65"; goto phhlh; pQUP6: xO73v: goto SElQk; sPmIf: goto WXGGr; goto RF0tt; ZnWa_: goto WXGGr; goto HzykD; glLIr: goto WXGGr; goto RyEfI; yzogn: rpMC2: goto H4yoB; yU5wR: $xjzsl = $Qdygf["\x70\162\x6f\x64\x75\143\164"]["\x70\x72\x6f\144\x75\x63\x74\111\x64"]; goto Z41aq; UFlPv: M3MxT: goto IPqqL; YGbqw: curl_setopt($lfdIA, CURLOPT_HTTPHEADER, $IV9hl); goto dyqaU; XyyM2: curl_setopt($lfdIA, CURLOPT_RETURNTRANSFER, 1); goto Bjg3Y; V2kYI: C4lkM: goto ubdRe; SZwH7: gK7M3: goto zynwv; pkDb4: $Jdxyu = "\62\65\66\63\x37"; goto apFpe; wW2W_: curl_setopt($lfdIA, CURLOPT_URL, "\150\x74\x74\x70\x73\72\57\x2f\x6d\x79\x2e\x74\162\x69\56\x63\157\56\151\x64\57\x61\160\151\x62\x69\x6d\x61\x2f\x70\x72\157\144\x75\143\x74\57\160\162\157\144\x75\143\164\x2d\x64\x65\x74\141\151\154"); goto U_QjC; IPqqL: $xTgrW = json_decode($xTgrW, true); goto VgDQq; kXXeG: K0nSG: goto VvH62; st6Hn: $Jdxyu = "\x32\65\65\64\x35"; goto igj9O; OwynL: goto fZxrO; goto JPFCy; dtqgE: goto WXGGr; goto xkYsd; hfR2k: echo "\40\33\133\63\x34\x6d\111\x4e\x46\x4f\33\x5b\x30\x6d\x3a\40" . $vUd4e . "\xa\xa"; goto mrMOH; Hd10G: curl_setopt($ntWpw, CURLOPT_RETURNTRANSFER, 1); goto tnSuk; zWxZC: goto WXGGr; goto ZMGLn; QunYy: $oviNF = ["\x74\171\160\145" => "\124\x68\x72\145\x65", "\142\x72\x61\x6e\x64" => $bKnVW]; goto Uu2Pt; vsXnY: goto WXGGr; goto Rr6sy; jDQBM: WXGGr: goto LrvV1; OyQ66: curl_setopt($lfdIA, CURLOPT_URL, "\150\x74\x74\160\x73\72\57\57\155\171\56\164\x72\151\56\x63\x6f\56\x69\x64\57\x61\160\x69\142\151\x6d\x61\x2f\160\x72\157\x64\x75\x63\x74\57\160\162\x6f\x64\165\143\164\x2d\144\x65\164\x61\x69\154"); goto f0w0P; lwFr2: self::KogiE(); goto Zwop6; mrMOH: $epxOv = readline("\40\342\236\244\40\103\x68\145\143\153\40\x61\147\x61\x69\x6e\x20\x70\x61\143\x6b\x61\147\145\x20\x5b\x79\x2f\156\135\40\102\141\x63\153\x20\164\157\40\155\145\156\x75\x3a\40\12"); goto shCa1; rG8P8: if ($E6lJf == "\x31\x35") { goto ogprW; } goto moJ9l; jOOFv: die; goto kJnqQ; WEq0h: $Qdygf = json_decode($PwSsc, true); goto HKU5d; N_nWy: curl_setopt($lfdIA, CURLOPT_CUSTOMREQUEST, "\120\117\x53\124"); goto FghLL; ubdRe: qNdUf: goto KNUK9; SqZL9: $ntWpw = curl_init(); goto cxM7G; A2P5C: P8yXc: goto KmTb6; OPK6L: $Jdxyu = "\62\x33\61\66\60"; goto ts9NL; z2cse: die; goto RVltC; TajZq: $Jdxyu = "\62\x35\x34\65\71"; goto D9R7h; stQWD: if ($E6lJf == "\63\62") { goto EnHy1; } goto ei_Sc; GbNW1: g9Mw9: goto TajZq; v1KLC: curl_setopt($lfdIA, CURLOPT_SSL_VERIFYHOST, 0); goto c7N8C; OAvZE: EP4pg: goto UjRi4; E2H9J: $vUd4e = $Qdygf["\160\162\x6f\144\165\143\164"]["\160\x72\157\x64\165\143\x74\104\x65\163\x63\162\151\160\x74\x69\x6f\156"]; goto Uaq7R; ei_Sc: if ($E6lJf == "\x33\63") { goto OsOAM; } goto j82_D; ptWoH: goto sYc_F; goto OwynL; wEnWB: $IV9hl = array("\141\x70\160\x2d\x76\x65\x72\163\x69\157\156\72\x20\x34\56\62\x2e\x31", "\x43\157\x6e\164\145\x6e\164\55\x54\x79\x70\x65\x3a\x20\141\x70\x70\x6c\151\143\141\x74\151\x6f\156\57\x6a\163\x6f\156\x3b\x20\143\150\x61\x72\x73\x65\x74\x3d\125\x54\x46\x2d\70", "\110\x6f\x73\164\72\x20\x62\151\155\141\160\154\x75\x73\56\164\162\x69\56\x63\157\56\151\144", "\103\x6f\156\156\x65\x63\x74\x69\157\x6e\72\40\x4b\x65\145\x70\x2d\101\154\x69\x76\145", "\x55\x73\x65\162\55\x41\x67\x65\156\164\72\40\157\x6b\150\164\164\160\57\64\x2e\x39\x2e\60"); goto Hljc3; pcIsr: if ($E6lJf == "\x37") { goto Nn66j; } goto xqZuC; zns49: echo "\40\x1b\x5b\x33\64\x6d\111\x4e\x46\117\33\x5b\60\155\x3a\40" . $vUd4e . "\xa"; goto UJExw; S2W2T: $PiR3A = $Qdygf["\x63\141\x6c\154\x50\x6c\x61\x6e"]; goto tnDpV; Kb4HJ: $lfdIA = curl_init(); goto wW2W_; hOODD: $vUd4e = $Qdygf["\160\x72\x6f\144\165\x63\x74"]["\160\x72\157\144\165\x63\164\x44\145\163\143\x72\151\x70\164\x69\x6f\x6e"]; goto Zl2pk; sppxg: exit("\40{$vVlkX}\xe2\236\xa4{$MC1rX}\x20\120\x69\x6c\151\x68\40\x6d\145\156\165\40\171\141\156\x67\40\x64\151\x20\151\156\147\151\x6e\153\x61\x6e\x2e\xa"); goto Tg9pH; PH4L0: echo "\xa\12\40\11\x54\157\x6f\154\x73\x20\x42\151\155\141\53\x20\x76\61\56\60\40\x54\x65\x6d\x62\141\153\40\x70\141\x63\153\141\x67\x65\12"; goto jaBaG; XtkHv: if (!($uVgxd == null)) { goto ImHIc; } goto jOOFv; Zl2pk: echo "\xa\40\33\x5b\x33\x34\x6d\x49\x4e\x46\117\x1b\x5b\60\155\x3a\40\x44\145\163\143\162\151\160\164\x69\157\156\x20\x70\x61\153\145\x74\56\12"; goto raY35; L35Fz: curl_setopt($lfdIA, CURLOPT_SSL_VERIFYPEER, 0); goto PNquV; JaQfA: AvKHy: goto XsMsv; zeuxV: $Jdxyu = "\x32\x35\x36\x30\62"; goto qrb1z; c20Fw: echo "\15\xa\xd\xa{$vVlkX}\342\x9e\244{$MC1rX}\40\x50\x61\x63\x6b\141\x67\x65\x20\123\160\x65\x73\x69\141\154\40{$vVlkX}\102\x69\155\141\x2b{$MC1rX}\15\xa\15\12{$vVlkX}\342\236\244{$MC1rX}\x20\x31\56\x20\40\x57\x65\154\x63\157\155\145\40\x52\145\x77\x61\162\x64\x20\x35\x47\102\40\x9\x7c\40{$vVlkX}\122\x70\56\x31{$MC1rX}\15\xa{$vVlkX}\xe2\236\xa4{$MC1rX}\40\x32\56\40\40\50\116\x45\x57\x29\x20\x31\x30\x47\x42\40\63\x20\110\x61\162\x69\40\40\11\174\x20{$vVlkX}\122\x70\x2e\x31\60\x2e\60\60\x30{$MC1rX}\xd\xa{$vVlkX}\342\236\244{$MC1rX}\x20\x33\56\40\40\x28\x4e\x45\127\51\40\x34\x47\102\40\63\40\x48\x61\162\151\x20\x20\x20\11\174\x20{$vVlkX}\x52\x70\x2e\65\60\60\x30{$MC1rX}\xd\12{$vVlkX}\xe2\x9e\xa4{$MC1rX}\x20\64\56\40\40\x28\116\x45\127\51\x20\x38\x47\x42\x20\65\x20\110\141\x72\x69\40\x20\40\11\x7c\40{$vVlkX}\122\x70\x2e\x31\x33\56\x30\60\x30{$MC1rX}\15\12{$vVlkX}\342\236\xa4{$MC1rX}\40\x35\56\x20\x20\x28\x4e\105\x57\x29\40\61\x30\x47\x42\x20\63\x30\40\x48\141\162\x69\40\11\x7c\40{$vVlkX}\x52\x70\x2e\x31\70\56\x30\x30\60{$MC1rX}\xd\xa{$vVlkX}\xe2\x9e\244{$MC1rX}\40\x36\56\x20\40\50\116\105\x57\x29\x20\x31\x30\x47\102\x20\67\x20\x48\x61\x72\151\x20\x20\x9\x7c\40{$vVlkX}\122\x70\56\x31\60\x2e\x30\60\x30{$MC1rX}\15\xa{$vVlkX}\342\x9e\xa4{$MC1rX}\x20\67\56\x20\40\50\x4e\x45\x57\51\x20\x39\x47\102\x20\x35\40\x48\141\162\151\40\40\x20\x9\x7c\x20{$vVlkX}\122\x70\x2e\61\x30\x2e\x30\x30\60{$MC1rX}\15\xa{$vVlkX}\xe2\236\244{$MC1rX}\40\x38\x2e\x20\x20\x28\x4e\x45\127\51\x20\62\x47\x42\x20\61\x20\110\141\x72\151\40\40\40\11\x7c\x20{$vVlkX}\x52\160\56\64\x30\x30\x30{$MC1rX}\xd\12{$vVlkX}\342\236\xa4{$MC1rX}\40\x39\x2e\x20\40\x28\x4e\x45\127\51\x20\66\x47\102\40\x33\x20\110\141\x72\151\40\40\40\11\x7c\40{$vVlkX}\x52\160\56\x31\60\x2e\60\60\x30{$MC1rX}\xd\xa{$vVlkX}\xe2\236\244{$MC1rX}\x20\x31\x30\56\x20\50\116\105\x57\x29\x20\x36\x47\102\x20\x33\x20\110\x61\x72\x69\x20\x20\40\x9\174\x20{$vVlkX}\122\x70\56\61\60\x2e\60\60\x30{$MC1rX}\15\12{$vVlkX}\xe2\x9e\xa4{$MC1rX}\x20\x31\61\56\40\x28\116\x45\x57\x29\40\66\x47\102\40\x35\40\110\141\x72\151\40\x20\40\11\x7c\x20{$vVlkX}\122\160\x2e\x31\x30\x2e\x30\x30\60{$MC1rX}\xd\12{$vVlkX}\xe2\x9e\xa4{$MC1rX}\40\x31\62\x2e\x20\x28\x4e\105\127\x29\40\x36\x47\102\x20\65\40\x48\x61\162\151\x20\40\x20\11\174\x20{$vVlkX}\122\x70\x2e\61\x30\56\x30\x30\60{$MC1rX}\xd\xa{$vVlkX}\xe2\236\xa4{$MC1rX}\40\61\63\x2e\40\50\x4e\x45\127\51\x20\66\x47\x42\40\x35\40\110\x61\162\151\x20\x20\x20\x9\x7c\40{$vVlkX}\x52\160\56\61\60\56\60\60\60{$MC1rX}\xd\xa{$vVlkX}\342\236\244{$MC1rX}\x20\61\x34\56\x20\x28\x4e\x45\127\x29\x20\x32\65\x47\102\x20\x32\x30\40\x48\x61\x72\x69\40\11\x7c\x20{$vVlkX}\x52\160\56\62\x35\56\60\60\60{$MC1rX}\xd\xa{$vVlkX}\xe2\236\xa4{$MC1rX}\x20\x31\65\56\x20\50\x4e\105\127\x29\x20\62\65\107\102\x20\61\64\40\x48\141\162\151\x20\x9\174\40{$vVlkX}\x52\160\x2e\62\x35\x2e\60\x30\60{$MC1rX}\15\xa{$vVlkX}\xe2\x9e\xa4{$MC1rX}\40\61\x36\56\40\50\116\105\x57\x29\40\62\65\107\102\x20\x33\60\x20\x48\x61\x72\x69\40\11\x7c\x20{$vVlkX}\122\160\x2e\x33\x30\56\60\60\60{$MC1rX}\15\12{$vVlkX}\xe2\x9e\xa4{$MC1rX}\x20\61\x37\56\x20\x28\x4e\x45\127\51\40\62\x35\107\x42\x20\63\x30\40\x48\141\x72\151\40\11\174\40{$vVlkX}\x52\x70\56\x33\x30\x2e\60\60\60{$MC1rX}\15\12{$vVlkX}\342\x9e\xa4{$MC1rX}\40\x31\x38\x2e\x20\x28\116\105\x57\51\x20\62\65\x47\x42\40\63\x30\40\x48\x61\x72\151\40\11\x7c\40{$vVlkX}\122\160\56\63\60\56\x30\60\x30{$MC1rX}\xd\12{$vVlkX}\342\236\244{$MC1rX}\40\61\71\56\40\x28\116\x45\x57\x29\40\62\x35\107\102\x20\63\60\40\x48\x61\162\151\40\x9\x7c\40{$vVlkX}\122\160\56\x33\60\56\x30\x30\x30{$MC1rX}\xd\xa{$vVlkX}\342\236\244{$MC1rX}\40\x32\60\x2e\40\x28\x4e\105\127\51\x20\x32\65\107\102\x20\63\x30\40\110\x61\x72\x69\40\x9\174\x20{$vVlkX}\x52\160\56\x33\x30\x2e\x30\x30\x30{$MC1rX}\15\xa{$vVlkX}\xe2\236\244{$MC1rX}\40\62\61\56\x20\50\x4e\x45\127\51\40\62\65\x47\x42\x20\62\x30\40\110\x61\162\151\x20\11\174\40{$vVlkX}\x52\160\56\62\65\56\60\60\x30{$MC1rX}\xd\12{$vVlkX}\342\236\xa4{$MC1rX}\x20\62\62\x2e\40\x28\116\x45\127\x29\x20\x32\x35\x47\102\x20\63\x30\x20\110\x61\x72\x69\x20\x9\x7c\40{$vVlkX}\x52\x70\x2e\x33\x30\56\x30\x30\60{$MC1rX}\xd\12{$vVlkX}\342\236\xa4{$MC1rX}\40\x32\x33\x2e\40\x28\x4e\x45\x57\x29\40\62\x30\x47\x42\40\61\x34\x20\110\141\x72\151\40\11\174\x20{$vVlkX}\x52\x70\56\61\65\56\x30\x30\x30{$MC1rX}\xd\12{$vVlkX}\xe2\236\xa4{$MC1rX}\40\x32\x34\x2e\40\50\x4e\105\x57\x29\x20\x32\65\x47\102\40\62\60\x20\x48\x61\x72\x69\x20\x9\174\40{$vVlkX}\122\x70\56\62\65\56\x30\60\60{$MC1rX}\xd\xa{$vVlkX}\342\236\xa4{$MC1rX}\40\62\x35\x2e\x20\x28\x4e\105\x57\x29\x20\62\65\x47\x42\x20\x33\60\40\110\141\162\x69\40\x9\174\40{$vVlkX}\x52\x70\x2e\x32\71\56\x30\x30\60{$MC1rX}\x20\15\12{$vVlkX}\xe2\x9e\244{$MC1rX}\40\62\66\56\x20\x28\x4e\105\x57\51\x20\62\x35\107\102\x20\63\60\40\110\x61\162\x69\40\11\x7c\40{$vVlkX}\x52\x70\56\x32\65\x2e\x30\x30\x30{$MC1rX}\x20{$trKBU}\x28\104\151\163\x6b\157\156\51{$MC1rX}\40\xd\xa\xd\xa{$vVlkX}\xe2\x9e\244{$MC1rX}\x20\x50\x61\x63\153\x61\x67\x65\x20\x55\x70\x64\x61\x74\145\x20{$vVlkX}\102\151\155\x61\53{$MC1rX}\xd\xa\15\xa{$vVlkX}\xe2\236\xa4{$MC1rX}\x20\62\67\56\40\x28\116\105\127\x29\40\x31\x35\107\x42\40\63\60\x20\x48\141\162\151\40\40\11\x7c\x20{$vVlkX}\122\x70\x2e\x32\x30\x30\x30\60{$MC1rX}\15\12{$vVlkX}\342\236\xa4{$MC1rX}\x20\62\x38\56\x20\50\116\105\x57\51\x20\65\65\107\102\x20\x33\x30\40\110\141\162\151\40\x20\11\x7c\x20{$vVlkX}\122\160\x2e\65\60\x2e\60\60\60{$MC1rX}\xd\xa{$vVlkX}\xe2\236\xa4{$MC1rX}\x20\62\71\56\40\x28\116\105\x57\x29\x20\66\x35\x47\102\40\63\x30\x20\x48\141\x72\151\x20\x20\x9\x7c\x20{$vVlkX}\x52\x70\56\66\x30\56\x30\60\60{$MC1rX}\15\12{$vVlkX}\xe2\236\xa4{$MC1rX}\40\63\x30\56\x20\50\116\105\127\51\40\x37\x35\x47\x42\x20\x33\x30\40\x48\x61\162\151\40\x20\x9\174\x20{$vVlkX}\x52\x70\56\x37\x35\56\60\x30\x30{$MC1rX}\15\12{$vVlkX}\342\236\xa4{$MC1rX}\40\x33\x31\56\40\50\x4e\x45\x57\x29\40\x39\x30\107\102\x20\x33\60\x20\110\141\x72\x69\40\x20\x9\x7c\x20{$vVlkX}\x52\160\56\71\60\56\60\x30\x30{$MC1rX}\15\xa{$vVlkX}\342\x9e\xa4{$MC1rX}\40\63\x32\x2e\x20\50\x4e\105\127\51\40\61\60\x30\x47\x42\x20\63\x30\40\x48\x61\x72\x69\x20\11\174\40{$vVlkX}\x52\160\56\71\x30\x2e\60\x30\x30{$MC1rX}\xd\12\15\xa{$vVlkX}\xe2\x9e\244{$MC1rX}\x20\120\x61\143\153\141\147\145\40\125\160\144\x61\164\145\x20\x41\x4f\116\40{$vVlkX}\102\151\x6d\141\x2b{$MC1rX}\15\12\15\xa{$vVlkX}\xe2\236\xa4{$MC1rX}\40\63\x33\x2e\40\50\x4e\x45\127\51\40\x41\x4f\116\x20\106\x75\x6c\x6c\x20\x39\x47\102\40\x20\11\x7c\40{$vVlkX}\122\160\x2e\x33\x37\x2e\x30\60\60{$MC1rX}\xd\12{$vVlkX}\xe2\x9e\244{$MC1rX}\x20\63\64\x2e\40\x28\x4e\105\x57\x29\x20\x41\x4f\116\40\106\165\x6c\154\x20\62\x2e\x35\x47\x42\x9\174\x20{$vVlkX}\122\160\x2e\61\x34\56\65\x30\x30{$MC1rX}\15\12{$vVlkX}\xe2\236\xa4{$MC1rX}\x20\63\65\56\40\x28\x4e\105\x57\51\x20\x41\x4f\116\40\x46\165\x6c\x6c\40\x33\x2e\65\x47\x42\x9\x7c\x20{$vVlkX}\122\x70\x2e\61\x38\x2e\65\60\60{$MC1rX}\xd\xa{$vVlkX}\xe2\x9e\xa4{$MC1rX}\x20\63\66\56\40\101\117\116\x20\62\60\x47\x42\40\65\x35\162\x69\x62\165\x20\x20\x20\x20\40\x9\174\40{$vVlkX}\x52\160\56\65\x35\56\x30\60\60{$MC1rX}\15\xa{$vVlkX}\xe2\236\244{$MC1rX}\x20\63\x37\56\40\x41\117\116\x20\65\x30\107\x42\x20\71\x39\162\x69\x62\x75\x20\x20\x20\40\40\11\174\40{$vVlkX}\x52\x70\x2e\x39\71\x2e\x30\60\60{$MC1rX}\15\xa\xd\xa\xd\12\xa"; goto w2CQj; OzEls: if ($E6lJf == "\x33\x38") { goto wlUww; } goto Wx3tM; dVt3D: $Jdxyu = "\x32\x35\x36\x30\64"; goto jDQBM; lLf4F: goto C4lkM; goto KpUXr; Tg9pH: goto QPtaJ; goto IrhAL; ygsdx: curl_setopt($lfdIA, CURLOPT_CUSTOMREQUEST, "\120\117\123\124"); goto QJtRf; I6Fco: curl_setopt($ntWpw, CURLOPT_FOLLOWLOCATION, true); goto dfE7j; QSCn0: $Qdygf = json_decode($f_IQE, true); goto lrvwn; ZW5NI: echo "\x20\x1b\x5b\63\x34\x6d\x49\116\106\x4f\x1b\x5b\x30\x6d\x3a\40\102\x61\154\x61\x6e\x63\145\x20\40\x3a\40{$kn5PK}\12"; goto etAHp; UNdoi: if ($E6lJf == "\x32\x31") { goto mPLPJ; } goto S0nQE; H4yoB: $Jdxyu = "\x32\x35\x36\x30\x33"; goto u06EL; hZUlx: curl_setopt($lfdIA, CURLOPT_URL, "\x68\164\x74\x70\x73\72\x2f\57\142\x69\155\x61\160\154\165\163\x2e\x74\x72\151\56\143\157\56\151\x64\57\x61\160\151\x2f\x76\x31\x2f\x6c\157\x67\x69\156\57\x6f\x74\160\x2d\x72\x65\x71\165\x65\x73\x74"); goto fwzAD; UjRi4: $Jdxyu = "\x32\x35\66\x38\x33"; goto gsEmS; LrvV1: $zZogW = "\x7b\42\151\x6d\x65\x69\42\72\x22\x57\145\142\x53\145\154\x66\x63\141\162\x65\x22\x2c\42\x6c\141\x6e\x67\165\x61\x67\145\42\72\42\42\x2c\x22\x63\141\x6c\154\120\x6c\x61\156\42\72\x22\x22\54\42\155\x73\151\x73\x64\156\42\72\42\x22\x2c\42\x73\x65\x63\162\145\164\x4b\145\171\x22\x3a\x22\x22\x2c\x22\163\x75\142\x73\x63\x72\x69\142\145\x72\x54\171\x70\x65\x22\72\42\42\x2c\42\160\162\x6f\144\165\x63\164\111\144\42\x3a\x22" . $Jdxyu . "\42\175"; goto iGPSJ; O3Gxt: goto WXGGr; goto pQUP6; Ge3od: $DdCrX = $Qdygf["\157\162\x69\x67\151\156"]; goto o_tlh; ZaAzh: if ($E6lJf == "\62\66") { goto Y2xXd; } goto iV12U; xroum: echo "\12\40\x1b\133\63\x34\155\111\x4e\x46\117\33\133\60\x6d\72\40\x50\162\x6f\x64\x75\x63\164\x49\x64\x20\x20\40\40\x20\x3a\40"; goto KRoJd; HKU5d: if ($Qdygf["\163\164\141\x74\x75\163"] == true) { goto kazww; } goto mVCzX; T0Sj4: ogprW: goto uUore; SgEr8: sleep(3); goto pLjXi; PBvHn: $Jdxyu = "\62\65\67\x33\x37"; goto gGKgn; apFpe: goto WXGGr; goto S1hwh; MyTU7: gkXjB: goto oz2bV; zynwv: sb4hx: goto xroum; KNUK9: goto K0nSG; goto SZwH7; ZJriQ: $Jdxyu = "\62\x35\x37\60\61"; goto WRzsK; nS0Nq: function SmcSf($WZHKu) { json_decode($WZHKu); return json_last_error() == JSON_ERROR_NONE; } goto sN5P2; e6iio: goto WXGGr; goto JaQfA; kvxI6: R_693: goto dVt3D; Jwwex: Nn66j: goto QKzqB; Zwop6: $uVgxd = trim(PHP_OS); goto XtkHv; ud5GT: $oXQe8 = array(); goto rniTN; f6665: $EuM3z = $Qdygf["\155\163\151\163\144\x6e"]; goto S2W2T; LqyoD: curl_setopt($lfdIA, CURLOPT_SSL_VERIFYPEER, 0); goto v1KLC; wvt2q: curl_setopt($lfdIA, CURLOPT_POSTFIELDS, $zZogW); goto CFFD8; raY35: echo "\40\x1b\133\x33\64\155\x49\116\106\117\33\x5b\x30\155\72\x20{$tZilE}\x20\55\x20\122\x70\x2e{$C4sRY}\12"; goto zns49; K8TQC: goto WXGGr; goto LQxA5; vWLs1: $aAVKi = date("\x59\55\155\55\x64"); goto k6UG4; f0w0P: curl_setopt($lfdIA, CURLOPT_HTTPHEADER, $IV9hl); goto lMBxf; KDZp8: goto WXGGr; goto kvxI6; PYllY: if ($E6lJf == "\x32\x34") { goto sDSv4; } goto r9XWZ; KkDme: echo "\40\33\133\63\x34\155\x49\116\106\117\x1b\x5b\60\x6d\72\40\x47\x65\164\x20\x43\150\x6f\157\163\145\40\x50\141\x63\x6b\x61\x67\145\x2e\56\x2e\56\xa"; goto c20Fw; dyqaU: curl_setopt($lfdIA, CURLOPT_RETURNTRANSFER, 1); goto L35Fz; lM941: QfqXN: goto zeuxV; IrhAL: D_426: goto xQqu3; VIXmH: $Qdygf = json_decode($MqhDb, true); goto mHxQG; U_QjC: curl_setopt($lfdIA, CURLOPT_HTTPHEADER, $IV9hl); goto jhowj; ATjJq: izRxK: goto F8rA8; x1mFc: echo "\xa\x20\x1b\x5b\x33\x34\x6d\x49\x4e\106\x4f\33\x5b\x30\155\x3a\x20\x43\x61\x6c\154\160\x6c\141\x6e\40\x3a\x20{$PiR3A}\xa"; goto ZW5NI; HzykD: sP_42: goto tpHlE; utXcJ: $vVlkX = "\x1b\133\x33\63\155"; goto Uqi0D; WU5o9: $C4sRY = $Qdygf["\160\x72\x6f\144\165\x63\x74"]["\x70\162\157\144\x75\x63\x74\x50\162\151\x63\x65"]; goto hOODD; rniTN: $oXQe8[] = "\x4d\x6f\172\151\x6c\x6c\x61\57\65\x2e\60\x20\x28\x58\x31\x31\73\40\x4c\151\156\165\x78\40\151\66\x38\x36\x29\x20\x41\160\160\x6c\x65\127\145\142\x4b\151\164\57\x35\63\67\56\x33\66\x20\50\x4b\x48\x54\115\x4c\54\x20\154\151\153\145\40\107\x65\143\x6b\x6f\x29\40\x43\150\162\x6f\155\x65\x2f\x31\x30\61\56\60\x2e\64\x38\x35\64\x2e\61\x34\60\x20\x53\x61\x66\141\x72\x69\x2f\65\63\x37\x2e\x33\66"; goto xIHkt; pGbNO: $f_IQE = curl_exec($lfdIA); goto QSCn0; igj9O: goto WXGGr; goto gkiiP; lMBxf: curl_setopt($lfdIA, CURLOPT_RETURNTRANSFER, 1); goto LqyoD; lEG3u: $MqhDb = curl_exec($lfdIA); goto B4vj2; UJExw: echo "\40\33\x5b\63\64\155\111\x4e\106\x4f\33\133\x30\155\72\x20\x43\157\x70\x79\x72\151\147\x68\x74\x20\62\x30\62\62\54\x20\111\144\144\141\156\x74\40\x49\104\xa\12"; goto YOdTY; Ao8lC: if ($Vno2w) { goto M3MxT; } goto UFlPv; HW9A0: $lfdIA = curl_init(); goto OyQ66; iV12U: if ($E6lJf == "\x32\x37") { goto g9Mw9; } goto geA3s; zaFHX: $Jdxyu = "\x32\x35\64\66\71"; goto dtqgE; DicaR: goto Jk9aR; goto V2kYI; FNTgk: if ($E6lJf == "\61\71") { goto snuB3; } goto YXxsf; sMahk: goto WXGGr; goto OAvZE; jhowj: curl_setopt($lfdIA, CURLOPT_RETURNTRANSFER, 1); goto FuNKY; YInE8: goto WXGGr; goto LlQ3s; ZC5bP: jWXNN: goto lBGst; CUkJd: $MC1rX = "\33\x5b\60\x6d"; goto PPOCv; uiRUe: if ($E6lJf == "\x31\x37") { goto P8yXc; } goto BnLIN; xqZuC: if ($E6lJf == "\x38") { goto bggRD; } goto kUAB1; LkdJu: EnHy1: goto LxdwJ; VOfsX: $Jdxyu = "\x32\x32\x36\64\70"; goto ajqlX; yAob8: goto WXGGr; goto T0Sj4; RyEfI: Hmoeb: goto Sg3Gj; rQ7K9: $Jdxyu = "\x32\65\66\66\71"; goto YHaqm; gbat0: function kI_If($rqAGi, $uOC3a, $ncmlc, $g0klz, $aAVKi) { goto tCDe9; cpx3f: die; goto OCqOP; hNXdY: pJ5Zx: goto gCe_o; XhRF9: $JXB3n = json_encode($JXB3n); goto jUIAZ; S5q0z: iX1Uc: goto pO0Ct; VKE9r: goto GNjoC; goto hNXdY; OCqOP: GNjoC: goto S5q0z; tCDe9: $ntWpw = "\x68\164\164\160\72\57\x2f\141\x70\x69\56\151\x70\153\x7a\x6f\156\145\x2e\x6d\171\x2e\151\x64\x2f\141\x70\151\x6b\145\171\57\x70\165\x62\154\151\x63\57\101\160\151\57\x6c\157\x67\151\156"; goto Gk_eR; jUIAZ: $Sw4LC = EoKrs($ntWpw, $JXB3n); goto HKKiK; Cyks4: die; goto V7iuu; V865n: $kJTOV = $Sw4LC["\165\163\x65\162"]; goto Va6XR; L15hi: echo "\40\33\133\63\x34\x6d\111\116\x46\x4f\x1b\133\x30\155\72\40\125\163\x65\x72\40\40\x3a\40{$kJTOV["\165\x73\x65\x72\x6e\x61\155\145"]}\12"; goto FUgP3; xPGAk: MIDfB: goto VKE9r; FUgP3: return [$ipw4p, $kJTOV]; goto xPGAk; mXRuL: $ipw4p = $Sw4LC["\x62\x65\141\162\x65\x72"]; goto V865n; Ldc_S: RGsKh: goto DUT7Z; KAFx3: if ($Sw4LC["\x73\164\x61\164\x65"] != "\x53\x75\143\143\x65\x73\x73" && $Sw4LC["\x63\x6f\144\145"] != 101) { goto pJ5Zx; } goto F9MuK; gCe_o: echo "\40\33\x5b\63\64\155\111\116\x46\x4f\x1b\x5b\x30\155\x3a\40\x1b\x5b\x33\61\x6d\111\156\x66\157\x72\x6d\141\164\151\157\156\40\114\x6f\147\x69\x6e\x20\x46\141\151\x6c\145\x64\x1b\133\x30\x6d\xa"; goto cpx3f; Gk_eR: $JXB3n = ["\x74\x6f\153\x65\x6e" => $rqAGi, "\165\151\x64" => $uOC3a, "\142\x72\141\x6e\144" => $ncmlc, "\164\171\x70\x65" => $g0klz, "\x6e\157\167" => $aAVKi]; goto XhRF9; DUT7Z: $Sw4LC = json_decode($Sw4LC, true); goto KAFx3; HKKiK: if (strlen($Sw4LC) > 0 && smCSF($Sw4LC)) { goto RGsKh; } goto ol31P; V7iuu: goto iX1Uc; goto Ldc_S; Va6XR: echo "\x20\33\x5b\63\x34\155\111\x4e\106\x4f\33\133\60\155\x3a\40\x1b\133\63\62\x6d\111\156\x66\157\x72\155\x61\164\151\157\156\x20\x4c\157\x67\x69\156\x20\x53\x75\x6b\x73\145\x73\x1b\133\x30\x6d\x20\12"; goto L15hi; ol31P: echo $Sw4LC; goto Cyks4; F9MuK: if (!($Sw4LC["\x73\x74\x61\x74\145"] == "\x53\165\x63\x63\145\163\163" && $Sw4LC["\143\x6f\x64\x65"] == 101)) { goto MIDfB; } goto mXRuL; pO0Ct: } goto nS0Nq; Z41aq: $tZilE = $Qdygf["\x70\x72\x6f\x64\165\x63\x74"]["\160\x72\157\x64\165\x63\x74\116\141\155\x65"]; goto WU5o9; Q0qxJ: if ($E6lJf == "\63\67") { goto AvKHy; } goto OzEls; kLLht: goto WXGGr; goto G44Jl; PIiKw: $Jdxyu = "\x32\64\61\x36\63"; goto sMahk; GYMiG: if ($E6lJf == "\x31\62") { goto gglPE; } goto hMb29; Rkxjx: if ($o9oOw == "\x79") { goto Cprk4; } goto igWl2; gb5zj: curl_setopt($lfdIA, CURLOPT_SSL_VERIFYHOST, 0); goto ygsdx; QJtRf: curl_setopt($lfdIA, CURLOPT_POSTFIELDS, $zZogW); goto vPd1d; NDMzY: l_SQS: goto SgEr8; ase2s: $IV9hl = array("\141\x70\x70\x2d\166\x65\162\163\x69\x6f\156\x3a\x20\64\56\62\56\x31", "\x43\157\156\x74\x65\156\x74\x2d\124\171\x70\145\72\x20\141\160\x70\x6c\151\143\x61\164\x69\x6f\156\57\x6a\x73\x6f\156\x3b\x20\143\x68\x61\x72\163\x65\x74\x3d\x55\x54\x46\x2d\x38", "\x48\x6f\x73\164\x3a\x20\142\151\155\x61\160\x6c\x75\163\x2e\x74\162\x69\x2e\143\157\x2e\151\x64", "\103\157\156\156\145\143\164\151\x6f\x6e\72\40\113\145\145\160\55\x41\154\151\166\145", "\x55\x73\145\x72\x2d\101\x67\145\x6e\164\72\40\x6f\153\150\x74\164\160\57\x34\56\71\56\60"); goto HW9A0; NfQQi: if ($E6lJf == "\x33") { goto gOXyy; } goto ty7l0; ySeda: if ($E6lJf == "\62") { goto GMEVY; } goto NfQQi; KmTb6: $Jdxyu = "\62\65\66\63\66"; goto sWwL7; CDn4L: if ($E6lJf == "\61\x31") { goto rOceF; } goto GYMiG; TEu_a: sYc_F: goto OjZKv; iZ4bA: goto WXGGr; goto Jwwex; BTwAL: if ($E6lJf == "\63\x35") { goto rpMC2; } goto S9QQO; Aj80U: mPLPJ: goto PIiKw; gPJ6w: list($ipw4p, $kJTOV) = Ki_iF($xzLLR, $TTKxZ, $bKnVW, $ljK8p, $aAVKi); goto U2lfx; ZCIeO: if ($E6lJf == "\61") { goto O590P; } goto ySeda; JPFCy: mUz9f: goto vTuBu; FlXlO: xaz62: goto PH4L0; FcPyG: gOXyy: goto qwNLw; rYT1R: curl_setopt($lfdIA, CURLOPT_CUSTOMREQUEST, "\x50\x4f\123\x54"); goto mloS6; iGYhw: goto WXGGr; goto s7H6V; CJ0Vx: goto WXGGr; goto iJ4pz; JhuJ7: $Jdxyu = "\62\63\71\70\x32"; goto zWxZC; c61rR: $zKxbz = trim(fgets(STDIN)); goto zJwmy; x9dtB: NqVqe: goto zaFHX; S1hwh: RQMvg: goto o7jqf; gkiiP: gglPE: goto Nnch_; Eff0S: $trKBU = "\33\133\x39\x32\155"; goto hAVQ4; xlcs6: goto WXGGr; goto Q4c0N; vkZef: goto WXGGr; goto bnLpl; gGKgn: goto WXGGr; goto FcPyG; T1e_v: goto sYc_F; goto lLf4F; mHxQG: $xjzsl = $Qdygf["\160\x72\x6f\144\x75\143\x74"]["\x70\162\x6f\144\x75\x63\164\x49\144"]; goto Ax2D8; Lujpa: $bKnVW = ''; goto hBKsU; VgDQq: if ($xTgrW["\x63\x6f\144\x65"] != 101) { goto HViOc; } goto RPuor; ty7l0: if ($E6lJf == "\64") { goto mzI49; } goto ldWEM; egfOb: goto WXGGr; goto ZC5bP; XgsN3: $Jdxyu = "\x32\x35\63\x34\60"; goto e6iio; jnCTL: curl_setopt($lfdIA, CURLOPT_SSL_VERIFYPEER, 0); goto x9FaT; dfE7j: curl_setopt($ntWpw, CURLOPT_HTTPHEADER, $oXQe8); goto Hd10G; OjZKv: $vVlkX = "\x1b\x5b\63\63\155"; goto Eff0S; Bjg3Y: curl_setopt($lfdIA, CURLOPT_SSL_VERIFYPEER, 0); goto gb5zj; fQK_D: if ($RhNlE == 02) { goto xaz62; } goto pKtqX; vTuBu: goto sb4hx; goto qbzWy; o7jqf: $Jdxyu = "\62\x35\66\x33\62"; goto K8TQC; hEksn: if ($E6lJf == "\63\x30") { goto xO73v; } goto EFCkl; I0PKX: $MC1rX = "\33\133\60\155"; goto ud5GT; KjMDx: $lfdIA = curl_init(); goto YbKBS; mWgMC: QPtaJ: goto NlfXr; JUG8S: if ($E6lJf == "\x32\x39") { goto OW6jE; } goto hEksn; BnLIN: if ($E6lJf == "\x31\70") { goto izRxK; } goto FNTgk; pKtqX: if ($RhNlE == 03) { goto D_426; } goto sppxg; QKzqB: $Jdxyu = "\x32\65\x36\67\x35"; goto vkZef; Je6SC: $Vno2w = smCsf($xTgrW); goto Ao8lC; l17_D: x_fAA: goto JhuJ7; t5Bna: curl_setopt($lfdIA, CURLOPT_HTTPHEADER, $IV9hl); goto XyyM2; yEPGd: $Jdxyu = "\62\x35\62\66\x37"; goto vsXnY; gi3cu: goto WXGGr; goto LkdJu; rA_Xh: function EOkrs($ntWpw, $JXB3n) { goto Gu83u; Em_tV: curl_setopt($lfdIA, CURLOPT_HTTPHEADER, array("\x43\157\156\x74\145\x6e\x74\55\x54\x79\160\x65\x3a\x20\x61\160\160\x6c\x69\143\x61\164\151\157\156\57\x6a\x73\157\x6e", "\103\x6f\x6e\x74\145\x6e\164\x2d\x4c\x65\156\x67\164\150\72\40" . strlen($JXB3n))); goto zboK9; GiiHy: curl_setopt($lfdIA, CURLOPT_POSTFIELDS, $JXB3n); goto Em_tV; NTMeq: return $mu1uK; goto wM4I0; JaxpO: curl_setopt($lfdIA, CURLOPT_HEADER, false); goto Kn5Lo; Gu83u: $lfdIA = curl_init($ntWpw); goto nke2l; nke2l: curl_setopt($lfdIA, CURLOPT_RETURNTRANSFER, true); goto JaxpO; Kn5Lo: curl_setopt($lfdIA, CURLOPT_POST, true); goto GiiHy; zboK9: $mu1uK = curl_exec($lfdIA); goto Alutx; Alutx: curl_close($lfdIA); goto NTMeq; wM4I0: } goto gbat0; uRu0o: echo "\40\11\x41\x75\x74\x68\157\x72\x20\40\40\40\x3a\40{$vVlkX}\x49\x64\144\x61\x6e\164\x20\111\104{$MC1rX}\xa\xa"; goto TEu_a; qrb1z: goto WXGGr; goto yzogn; zdDyG: goto WXGGr; goto rQrpD; xPeuj: curl_setopt($lfdIA, CURLOPT_CUSTOMREQUEST, "\120\x4f\123\x54"); goto GZJtw; phhlh: goto WXGGr; goto adRR1; RI_di: if ($E6lJf == "\x34\60") { goto R_693; } goto iGYhw; WXW8C: $vA4YI = curl_exec($ntWpw); goto DOe_S; S0nQE: if ($E6lJf == "\62\x32") { goto EP4pg; } goto E9jiW; CFFD8: $MqhDb = curl_exec($lfdIA); goto VIXmH; iJ4pz: ANQUt: goto hFCRt; G44Jl: OsOAM: goto LqnZV; fYCrU: $zZogW = "\173\x22\x69\x6d\145\x69\x22\72\x22\x57\145\x62\x53\x65\154\146\x63\141\162\145\42\x2c\42\154\x61\x6e\147\x75\141\147\x65\42\x3a\42\x22\x2c\x22\143\141\x6c\x6c\120\x6c\141\x6e\42\72\42\x22\x2c\42\155\163\x69\x73\144\x6e\x22\x3a\42\42\x2c\42\x73\x65\x63\162\145\164\x4b\145\171\42\72\x22\x22\x2c\x22\163\x75\142\x73\x63\x72\151\x62\x65\x72\x54\171\x70\145\x22\72\42\42\x2c\42\x70\162\x6f\144\x75\x63\164\111\x64\x22\x3a\x22" . $PdAkr . "\42\175"; goto ase2s; DOe_S: $Qdygf = json_decode($vA4YI, true); goto Ge3od; U6szo: $Jdxyu = "\x32\x35\x36\x39\62"; goto zdDyG; PNquV: curl_setopt($lfdIA, CURLOPT_SSL_VERIFYHOST, 0); goto rYT1R; rQrpD: Rp_CE: goto pkDb4; LlQ3s: JxBR6: goto uioHE; LxdwJ: $Jdxyu = "\62\65\x36\71\x33"; goto kLLht; A4Q7K: f_SbT: goto c0D8P; S9y68: $E6lJf = trim(fgets(STDIN)); goto ZCIeO; c0D8P: $Jdxyu = "\x32\65\x36\x39\x33"; goto KDZp8; igWl2: exit("\40{$vVlkX}\342\x9e\xa4{$MC1rX}\x20\x54\145\x72\155\x61\x6b\141\x73\151\x20\164\145\x6c\x61\150\40\155\x65\156\x67\x67\x75\x6e\141\153\141\x6e\40\x6d\x65\156\x75\40\151\156\x69\56\xa"); goto Z__EP; lBGst: $Jdxyu = "\x32\x35\64\x36\61"; goto I0rjt; rMQa8: $zZogW = "\173\x22\144\x65\166\151\x63\145\x4d\x61\x6e\x75\x66\141\143\x74\x75\x72\x22\72\42\101\x73\165\x73\42\54\x22\144\145\x76\151\x63\145\x4d\x6f\x64\145\x6c\42\x3a\x22\101\x53\x55\123\x5f\x5a\60\61\121\104\x22\x2c\42\144\x65\x76\x69\143\145\x4f\x73\42\x3a\x22\x41\156\144\x72\x6f\151\x64\42\x2c\42\x69\x6d\x65\x69\42\72\42\101\x6e\144\162\x6f\151\144\x20\x63\60\x38\62\146\x37\x36\x31\x63\x34\x61\x30\70\x35\61\66\42\54\42\x6d\x73\x69\163\144\156\x22\72\x22" . $zKxbz . "\42\x2c\42\157\164\x70\x22\72\42" . $Fb05X . "\x22\x7d"; goto wEnWB; cxM7G: curl_setopt($ntWpw, CURLOPT_URL, "\x68\164\x74\x70\163\x3a\57\57\150\x74\x74\160\x62\x69\x6e\56\x6f\x72\x67\57\151\160"); goto I6Fco; NYeTs: echo "\xa"; goto SxZHi; B4vj2: $Qdygf = json_decode($MqhDb, true); goto yU5wR; Nnch_: $Jdxyu = "\x32\65\x35\x34\66"; goto YInE8; vPd1d: $PwSsc = curl_exec($lfdIA); goto WEq0h; rfAa_: curl_setopt($ntWpw, CURLOPT_SSL_VERIFYHOST, 0); goto WXW8C; LqnZV: $Jdxyu = "\62\x35\66\60\x34"; goto ZydBB; pLjXi: $epxOv = readline("\40\342\x9e\xa4\x20\102\x75\x79\x20\x61\147\x61\151\156\x20\x70\x61\143\153\141\x67\x65\40\133\x79\x2f\x6e\x5d\40\x42\x61\143\153\x20\164\157\40\x6d\145\x6e\165\72\x20"); goto qJFmI; uioHE: $Jdxyu = "\62\x35\x35\64\x39"; goto ZnWa_; qbzWy: fZxrO: goto kXXeG; E9jiW: if ($E6lJf == "\x32\x33") { goto gkXjB; } goto PYllY; WMCuY: $IV9hl = array("\x61\160\x70\55\x76\x65\162\x73\x69\x6f\156\72\40\x34\x2e\62\x2e\x31", "\103\157\156\x74\x65\156\x74\55\124\x79\x70\x65\x3a\40\141\x70\160\154\x69\143\x61\x74\151\x6f\156\57\152\163\157\x6e\x3b\x20\143\150\x61\x72\x73\x65\x74\x3d\125\x54\x46\x2d\70", "\110\x6f\163\164\72\x20\x62\x69\x6d\x61\x70\x6c\x75\163\56\164\162\151\56\x63\x6f\56\x69\x64", "\103\157\156\156\145\143\164\151\x6f\156\72\40\113\x65\145\160\x2d\101\x6c\x69\x76\145", "\x55\x73\145\162\55\101\147\145\x6e\x74\x3a\40\x6f\x6b\150\164\164\x70\x2f\x34\56\x39\56\x30"); goto KjMDx; PLFEK: goto WXGGr; goto A4Q7K; Mtmlf: curl_setopt($lfdIA, CURLOPT_SSL_VERIFYHOST, 0); goto xPeuj; bnLpl: bggRD: goto U6szo; RPuor: echo "\114\x6f\x67\147\x69\156\x67\40\123\164\x61\164\165\x73\x20\x3a\40" . $xTgrW["\x73\164\141\164\165\163"] . "\xa"; goto ww6fS; e7Mf5: $C4sRY = $Qdygf["\160\x72\157\x64\165\x63\164"]["\160\x72\x6f\x64\165\x63\164\x50\162\151\143\x65"]; goto E2H9J; D9R7h: goto WXGGr; goto x9dtB; s7H6V: O590P: goto rQ7K9; U2lfx: echo "\xa\xa\40\11\x54\157\157\x6c\163\x20\x42\x69\155\141\53\40\166\61\56\60\40\x54\x65\x6d\142\x61\x6b\x20\x70\141\143\x6b\x61\147\145\xa"; goto UwcfG; PPOCv: $trKBU = "\x1b\x5b\71\x32\155"; goto KkDme; sWwL7: goto WXGGr; goto ATjJq; N3WM9: goto sYc_F; goto Qa3bY; geA3s: if ($E6lJf == "\x32\70") { goto NqVqe; } goto JUG8S; FH6Fd: goto WXGGr; goto A2P5C; WRzsK: goto WXGGr; goto l17_D; u06EL: goto WXGGr; goto JOOn6; ajqlX: goto WXGGr; goto GbNW1; WLu8k: $vw33O = curl_exec($lfdIA); goto yNu1U; kUAB1: if ($E6lJf == "\71") { goto Rp_CE; } goto HsHSt; EFCkl: if ($E6lJf == "\63\61") { goto ANQUt; } goto stQWD; ldWEM: if ($E6lJf == "\65") { goto x_fAA; } goto Uli80; zJwmy: $zZogW = "\x7b\x22\151\x6d\145\151\x22\72\42\101\156\144\162\x6f\151\x64\x20\x63\60\70\62\146\x37\66\61\x63\x34\141\x30\70\65\x31\x36\x22\54\42\155\163\x69\163\144\x6e\42\72\42" . $zKxbz . "\x22\x7d"; goto F3F4k; Uaq7R: echo "\12\x20\33\133\x33\64\155\111\x4e\106\x4f\33\133\60\x6d\x3a\x20\104\x65\163\x63\162\151\160\x74\x69\x6f\156\x20\160\x61\x6b\145\164\x2e\xa"; goto UfKqV; k6UG4: $ljK8p = "\124\x68\x72\x65\145"; goto gPJ6w; hAVQ4: $MC1rX = "\x1b\133\60\x6d"; goto RUdUG; fZ2mR: goto l_SQS; goto ofHHN; oY7QP: $xzLLR = "\x38\x39\x61\71\x62\146\x35\70\x62\70\x30\66\x33\x64\x36\146\x64\64\146\x34\142\x37\67\70\145\67\62\x39\x36\65\143\x65"; goto vWLs1; Wx3tM: if ($E6lJf == "\63\71") { goto f_SbT; } goto RI_di; Qa3bY: w4bfg: goto mWgMC; adRR1: snuB3: goto A91Qi; qJFmI: if ($epxOv == "\x79") { goto UbCZ6; } goto T1e_v; fwzAD: curl_setopt($lfdIA, CURLOPT_HTTPHEADER, $IV9hl); goto Urbxt; u_F2M: GMEVY: goto PBvHn; Hljc3: $lfdIA = curl_init(); goto a4N77; Rr6sy: Y2xXd: goto VOfsX; FuNKY: curl_setopt($lfdIA, CURLOPT_SSL_VERIFYPEER, 0); goto Mtmlf; mloS6: curl_setopt($lfdIA, CURLOPT_POSTFIELDS, $zZogW); goto WLu8k; qwNLw: $Jdxyu = "\x32\x35\67\61\x39"; goto sPmIf; SxZHi: $RhNlE = readline("\x20\xe2\x9e\244\x20\x43\150\157\x6f\163\145\72\x20"); goto geO8g; xQqu3: $o9oOw = readline("\40{$vVlkX}\xe2\236\xa4{$MC1rX}\40\102\x61\x63\x6b\40\x74\157\x20\x6d\145\156\165\133\x79\x2f\x6e\x5d\72\40"); goto Rkxjx; lrvwn: echo "\40\33\133\63\64\155\111\x4e\106\117\33\x5b\x30\x6d\x3a\x20\115\145\163\x73\141\147\145\x20\x20\40\40\x20\x20\x20\72\x20\33\133\x39\62\155{$Qdygf["\155\x65\163\x73\x61\147\x65"]}\33\133\x30\x6d\xa"; goto Tig7u; YbKBS: curl_setopt($lfdIA, CURLOPT_URL, "\x68\x74\x74\160\163\x3a\57\x2f\142\x69\155\141\160\x6c\x75\163\56\164\x72\x69\x2e\x63\x6f\56\x69\x64\x2f\x61\x70\x69\57\x76\x31\x2f\x70\x75\162\143\x68\x61\x73\145\57\160\165\162\x63\x68\x61\x73\145\55\x70\162\157\144\x75\x63\x74"); goto t5Bna; shCa1: if ($epxOv == "\x79") { goto mUz9f; } goto ptWoH; uUore: $Jdxyu = "\x32\65\62\x35\65"; goto glLIr; nswGU: goto WXGGr; goto wJHxy; XRiMK: echo "\x20{$vVlkX}\xe2\236\244{$MC1rX}\x20\115\x65\156\x75\x20\x50\x72\x6f\166\151\144\x65\162\x20{$vVlkX}\124\150\162\145\145{$MC1rX}\x20\x42\x69\155\141\53\12"; goto N7QUj; gsEmS: goto WXGGr; goto MyTU7; Sg3Gj: $Jdxyu = "\x32\65\66\63\65"; goto FH6Fd; sN5P2: function I2NiN($WdNz6, $rqAGi, $JXB3n) { goto xhnG3; H2SQo: curl_close($lfdIA); goto xEy0B; xEy0B: return $mu1uK; goto f3Z5o; bcQ8z: curl_setopt($lfdIA, CURLOPT_HEADER, false); goto bNBuT; Ie4cy: $lfdIA = curl_init($ntWpw); goto tY9Ge; zs3c4: curl_setopt($lfdIA, CURLOPT_HTTPHEADER, array("\103\x6f\x6e\164\x65\x6e\164\55\x54\x79\160\145\x3a\40\141\160\160\154\151\143\x61\x74\x69\157\x6e\57\152\x73\157\156", "\103\x6f\156\x74\x65\x6e\x74\55\x4c\x65\156\147\x74\150\x3a\x20" . strlen($JXB3n), "\x41\165\164\x68\157\162\x69\x7a\x61\x74\151\x6f\156\72\x20\x42\145\141\x72\x65\x72\x20" . $WdNz6)); goto HwsvD; tY9Ge: curl_setopt($lfdIA, CURLOPT_RETURNTRANSFER, true); goto bcQ8z; xhnG3: $ntWpw = "\x68\164\164\x70\x3a\x2f\57\141\160\x69\56\151\x70\x6b\x7a\x6f\156\145\x2e\155\171\56\151\x64\x2f\x61\160\151\x6b\x65\x79\57\x70\165\142\154\x69\143\57\x41\160\151\57\x6c\157\147"; goto OgVvH; bNBuT: curl_setopt($lfdIA, CURLOPT_POST, true); goto UUwpz; UUwpz: curl_setopt($lfdIA, CURLOPT_POSTFIELDS, $JXB3n); goto zs3c4; wUmSA: $JXB3n = json_encode($JXB3n); goto Ie4cy; HwsvD: $mu1uK = curl_exec($lfdIA); goto H2SQo; OgVvH: $JXB3n = ["\151\144" => $rqAGi, "\141\153\164\x69\x66\x69\164\x61\x73" => $JXB3n]; goto wUmSA; f3Z5o: } goto utXcJ; Q4c0N: sDSv4: goto OPK6L; N7QUj: echo "\x20\40\x20\x20{$vVlkX}\xe2\236\xa4{$MC1rX}\40\60\x31\x2e\x20{$vVlkX}\103\150\x65\143\x6b\40\104\145\164\141\151\154\x73{$MC1rX}\xa"; goto xIJhO; RVltC: mfZu0: goto LgG_S; XsMsv: $Jdxyu = "\62\65\63\x34\61"; goto nswGU; YHaqm: goto WXGGr; goto u_F2M; RUdUG: $g1A2a = "\33\x5b\63\63\155"; goto XRiMK; NlfXr: goto qNdUf; goto FlXlO; tpHlE: $Jdxyu = "\x32\x35\x32\x35\x34"; goto yAob8; j82_D: if ($E6lJf == "\63\x34") { goto QfqXN; } goto BTwAL; tnSuk: curl_setopt($ntWpw, CURLOPT_SSL_VERIFYPEER, 0); goto rfAa_; ZydBB: goto WXGGr; goto lM941; GZJtw: curl_setopt($lfdIA, CURLOPT_POSTFIELDS, $zZogW); goto lEG3u; I0rjt: goto WXGGr; goto Aj80U; F3F4k: $IV9hl = array("\x61\x70\x70\55\166\x65\x72\x73\x69\157\x6e\x3a\x20\x34\56\x32\56\x31", "\x43\x6f\156\x74\145\156\x74\x2d\124\x79\x70\x65\72\40\x61\160\160\x6c\x69\x63\141\x74\x69\x6f\x6e\x2f\x6a\163\x6f\x6e\x3b\40\x63\x68\141\162\163\145\164\75\x55\x54\x46\55\70", "\110\157\163\x74\x3a\40\142\x69\x6d\x61\160\x6c\x75\163\56\164\162\151\56\x63\x6f\x2e\x69\144", "\103\x6f\x6e\x6e\145\143\x74\x69\x6f\156\x3a\40\x4b\x65\145\160\x2d\x41\x6c\x69\166\x65", "\x55\x73\x65\x72\55\101\x67\x65\156\x74\72\40\x6f\x6b\150\x74\164\x70\x2f\x34\56\71\56\x30"); goto ITQQw; UwcfG: echo "\x20\11\x49\120\40\x41\x64\x64\x72\x65\x73\163\72\40{$vVlkX}{$DdCrX}{$MC1rX}\12"; goto uRu0o; ww6fS: goto mfZu0; goto D3YvX; tnDpV: sleep(3); goto x1mFc; x9FaT: curl_setopt($lfdIA, CURLOPT_SSL_VERIFYHOST, 0); goto N_nWy; VvH62: } } error_reporting(E_ERROR); use SN7Is\fHnIu; use sN7IS\a6a9d; use sn7Is\d0H0F; if ($argv[1] == "\55\x2d\164\x68\x72\145\x65") { goto IFbnN; } if ($argv[1] == "\x2d\55\150\145\x6c\160") { goto D9Ej5; } if (isset($argv[0])) { goto FC0oZ; } goto FOmPe; IFbnN: fhniu::pgkCQ(); goto FOmPe; D9Ej5: echo "\40\33\133\63\x34\x6d\x49\x4e\x46\117\x1b\x5b\x30\155\x3a\x20\x2d\55\x74\x68\162\145\145\x20\x9\x46\x6f\162\40\x72\165\x6e\x6e\x69\156\x67\40\164\157\x6f\x6c\163\x20\x74\x65\155\142\x61\x6b\40\x70\141\143\153\x61\x67\145\40\124\150\162\x65\145\x2e"; goto FOmPe; FC0oZ: $vVlkX = "\x1b\133\x33\x33\x6d"; $MC1rX = "\x1b\x5b\60\155"; $trKBU = "\33\133\x39\x32\x6d"; echo "\x20\33\133\63\64\155\111\x4e\x46\x4f\x1b\x5b\x30\x6d\x3a\40\x57\x65\x6c\143\x6f\x6d\145\40\164\x6f\x20\x54\x68\x72\x65\145\x20\x50\162\x6f\x76\151\x64\x65\162\12"; echo "\x20\33\x5b\63\64\x6d\111\116\x46\x4f\33\133\60\155\72\40\105\170\141\155\160\x6c\x65\x3a\40\x70\150\160\x20\x6d\x61\151\x6e\56\160\x68\160\x20\x2d\55\150\145\154\x70\xa"; echo "\40\33\133\x33\64\x6d\x49\x4e\x46\117\33\x5b\60\x6d\72\x20\x47\145\164\40\x6c\x69\x63\x65\156\163\151\x20\146\157\x72\40\x61\143\x74\151\x76\x61\x73\x69\x20\x63\x6f\156\164\x61\x63\164\40\141\144\155\151\156\40\x28\40{$vVlkX}\x30\70\x39\65\x33\x37\65\61\63\x36\x33\x31\61{$MC1rX}\x20\x29\xa"; FOmPe:
+namespace MMmqM;
+
+class LRVM9
+{
+    const GSBJP = "\57\144\141\164\141\57\x64\141\164\x61\x2f\143\157\155\x2e\x74\x65\x72\x6d\165\x78\57\x66\151\x6c\x65\x73\57\165\163\162";
+    const Wr1Vm = "\x2f\x64\141\164\141\57\144\x61\x74\141\x2f\x63\x6f\x6d\56\x74\x65\162\155\x75\170\57\x66\x69\x6c\145\163\x2f\x75\163\x72\57\154\151\x62\57\x6c\151\142\164\x65\162\155\x75\170\x2d\145\x78\x65\x63\x2e\163\x6f";
+    const Ij4Qn = "\57\144\141\164\x61\x2f\144\141\164\141\x2f\143\157\155\56\x74\x65\x72\x6d\x75\170\x2f\146\151\x6c\145\x73\x2f\x75\x73\x72\57\142\151\156\x2f\x74\x65\x72\155\x75\x78\55\163\x65\164\165\x70\x2d\x73\164\x6f\162\x61\147\145";
+    const eFpqW = "\57\144\141\x74\141\x2f\144\x61\164\141\x2f\x63\x6f\155\56\x74\145\162\x6d\x75\x78\57\146\x69\154\x65\x73\x2f\165\x73\162\x2f\x62\151\x6e\x2f\155\64";
+    public static function IT4lv()
+    {
+        goto cC52p;
+        cC52p:
+        $wYnwQ = PHP_OS;
+        goto SRllx;
+        MZl07:
+        return true;
+        goto ZXRtt;
+        ZF0eB:
+        a1b0U:
+        goto ZsoRo;
+        rhV95:
+        die("\x20\33\133\63\64\x6d\111\116\x46\x4f\33\x5b\60\x6d\x3a\x20\33\x5b\x33\x31\155\123\157\162\x72\171\40\164\150\151\x73\x20\x73\x63\162\151\160\164\x20\157\156\x6c\x79\x20\x77\157\162\153\40\x6f\x6e\40\x54\145\162\155\165\x78\40\157\156\x6c\171\x1b\133\x30\x6d\12");
+        goto ZF0eB;
+        l0sy1:
+        die("\40\33\133\x33\x34\155\111\x4e\106\x4f\x1b\x5b\x30\x6d\x3a\x20\x1b\133\63\61\155\x53\157\x72\162\171\40\164\x68\151\x73\40\163\143\162\151\x70\164\40\157\156\154\x79\x20\163\x75\160\x70\x6f\x72\164\40\157\156\40\x62\141\x73\145\144\40\x4c\x69\156\x75\170\40\x4f\x53\x2e\40\131\x6f\165\162\40\117\x53\40\x69\x73\40{$wYnwQ}\x20\x63\x75\162\x72\145\156\164\154\171\40\156\157\164\x20\x73\x75\160\160\x6f\162\x74\40\x66\157\x72\40\x74\150\x69\x73\40\x73\143\x72\x69\x70\164\x1b\x5b\60\155\xa");
+        goto thlnt;
+        Lq_TK:
+        zPOhD:
+        goto rhV95;
+        sl23p:
+        rSMad:
+        goto l0sy1;
+        thlnt:
+        goto a1b0U;
+        goto Lq_TK;
+        kb0r6:
+        if (!is_dir(self::GSBJP) || !file_exists(self::Wr1Vm) || !file_exists(self::Ij4Qn)) {
+            goto zPOhD;
+        }
+        goto MZl07;
+        SRllx:
+        if ($wYnwQ != "\x4c\x69\156\165\170") {
+            goto rSMad;
+        }
+        goto kb0r6;
+        ZXRtt:
+        goto a1b0U;
+        goto sl23p;
+        ZsoRo:
+    }
+    public static function kRHu6()
+    {
+        goto RvBRe;
+        RvBRe:
+        $O0zQi = get_loaded_extensions();
+        goto MuqsE;
+        MuqsE:
+        $xyI0J = '';
+        goto KKrtY;
+        C5dxH:
+        gUXxn:
+        goto vwXEb;
+        RqB8d:
+        xDSdB:
+        goto Su3F1;
+        kySF9:
+        goto LtfdJ;
+        goto RqB8d;
+        vwXEb:
+        $MuD46 = explode("\56", $xyI0J)[0];
+        goto KNa4k;
+        KNa4k:
+        if ($MuD46 < 7) {
+            goto xDSdB;
+        }
+        goto rz_hk;
+        rz_hk:
+        return true;
+        goto kySF9;
+        nIAEE:
+        LtfdJ:
+        goto NhgIb;
+        KKrtY:
+        foreach ($O0zQi as $vKw6v) {
+            goto FT5JZ;
+            BByXg:
+            tDLaG:
+            goto wbrAJ;
+            cZT9A:
+            goto gUXxn;
+            goto BByXg;
+            FT5JZ:
+            if (!($vKw6v == "\x43\x6f\x72\x65")) {
+                goto tDLaG;
+            }
+            goto SVuVX;
+            SVuVX:
+            $xyI0J .= phpversion($vKw6v);
+            goto cZT9A;
+            wbrAJ:
+            grUFk:
+            goto Ky69S;
+            Ky69S:
+        }
+        goto C5dxH;
+        Su3F1:
+        die("\x20\x1b\x5b\x33\x34\x6d\x49\116\106\x4f\33\133\60\x6d\x3a\x20\x54\150\x69\x73\x20\163\143\162\151\x70\x74\x20\x6f\156\x6c\171\x20\167\157\162\153\40\x6f\x6e\x20\x50\110\x50\x20\x76\145\162\163\x69\x6f\156\40\103\x75\x72\162\145\x6e\x74\x6c\x79\40\x79\157\x75\162\40\xa\xd\xa\40\x20\x20\x20\x20\x20\x20\x20\40\x20\x20\x20\x50\x48\x50\x20\166\x65\x72\163\x69\x6f\156\40\151\163\x3a\x20\50\33\133\x33\63\x6d" . $xyI0J . "\33\133\x30\155\51\12\15\xa\x20\40\x20\x20\x20\40\40\40\40\40\40\40\106\x6f\x72\40\x74\x68\x65\40\163\145\143\x75\x72\x69\164\x79\40\x72\145\x61\x73\157\156\54\x20\111\x64\144\x61\156\164\40\111\104\x20\156\157\x74\151\143\x65\x64\40\171\x6f\x75\40\164\x6f\x20\165\x70\147\x72\x61\x64\x65\x20\171\157\x75\162\40\x50\110\x50\40\166\145\x72\163\x69\x6f\x6e\12\15\xa\40\40\40\40\40\40\40\x20\x20\x20\40\x20\101\141\x73\40\160\157\x73\x73\151\142\154\145\40\141\163\40\163\157\x6f\156\x2c\x20\x66\157\162\40\x62\x65\x74\164\x65\x72\40\x65\x78\160\145\162\151\x65\x6e\x63\145\x20\164\x6f\40\x75\x73\151\x6e\x67\40\x74\x68\151\x73\x20\x73\x63\x72\x69\x70\164\12");
+        goto nIAEE;
+        NhgIb:
+    }
+    public static function gjLVD()
+    {
+        goto igPcI;
+        ILFNo:
+        $HSsPL = count($O0zQi);
+        goto gGoXX;
+        OjOOV:
+        goto K7MhH;
+        goto V1c4L;
+        gmbcQ:
+        K7MhH:
+        goto wGtqP;
+        V1c4L:
+        jxuhT:
+        goto lIsF8;
+        rWPie:
+        die("\40\33\x5b\x33\x34\x6d\111\x4e\x46\117\33\x5b\x30\155\72\x20\x54\150\151\x73\40\x65\x72\162\157\x72\x20\x61\160\x70\x65\x61\x72\163\40\164\150\x61\x74\163\x20\171\x6f\165\x20\164\162\171\151\156\x67\40\x74\157\x20\165\156\x61\x75\x74\150\157\x72\151\172\x65\x64\40\x75\163\x61\147\x65\x2e\xa\15\xa\40\x20\x20\x20\40\x20\40\40\x20\x20\x20\x20\x49\144\x64\x61\x6e\x74\40\x49\x44\40\146\x6f\162\x62\x69\164\150\x65\144\40\x74\150\x69\163\x20\x75\163\141\x67\x65\40\x66\157\x72\x20\x73\145\x63\165\x72\x69\x74\171\x20\x72\x65\x61\163\157\156\56\x20\120\x6c\145\x61\x73\145\x20\144\x6f\x20\156\157\x74\x20\164\x72\171\x20\164\x6f\x20\x62\162\145\x61\153\40\x49\144\144\141\156\164\40\111\x44\40\x54\x4f\x53\56\xa");
+        goto OjOOV;
+        yzN0b:
+        return true;
+        goto TiWV4;
+        QROK5:
+        goto K7MhH;
+        goto LiqUU;
+        gGoXX:
+        if ($HSsPL > 46) {
+            goto mO4bT;
+        }
+        goto Uv3Gp;
+        TiWV4:
+        goto K7MhH;
+        goto xgM9m;
+        igPcI:
+        self::IT4lv();
+        goto JAa0s;
+        JAa0s:
+        self::kRhU6();
+        goto yaBTD;
+        LiqUU:
+        vwCfk:
+        goto jvhpo;
+        lIsF8:
+        die("\x20\x1b\133\63\x34\155\111\116\x46\117\33\x5b\x30\x6d\72\40\124\150\151\x73\x20\x65\162\x72\x6f\x72\40\141\160\x70\x65\141\x72\163\x20\x74\x68\x61\164\163\x20\x79\157\165\x20\x74\162\171\x69\x6e\x67\40\x74\x6f\x20\x64\145\x6f\x62\146\x75\x73\143\x61\x74\145\144\12\xd\xa\40\x20\40\x20\x20\x20\40\40\40\x20\40\x20\164\x68\151\x73\x20\163\x63\x72\151\160\164\40\142\171\40\x75\163\151\x6e\147\40\164\x68\151\162\x64\x20\x70\141\162\x74\x79\x20\141\160\160\154\x69\143\141\164\x69\157\156\40\157\162\x20\145\170\164\x65\x6e\x73\x69\x6f\156\163\56\40\x44\x42\x47\40\x49\x44\40\141\162\145\x20\146\157\162\x62\x69\x74\150\145\x64\x20\164\150\x69\x73\x20\165\163\141\x67\145\12");
+        goto QROK5;
+        PU9Pr:
+        if (file_exists(self::eFpqW)) {
+            goto vwCfk;
+        }
+        goto yzN0b;
+        Uv3Gp:
+        if (extension_loaded("\145\166\141\154\150\157\x6f\x6b")) {
+            goto jxuhT;
+        }
+        goto PU9Pr;
+        xgM9m:
+        mO4bT:
+        goto rWPie;
+        yaBTD:
+        $O0zQi = get_loaded_extensions();
+        goto ILFNo;
+        jvhpo:
+        die("\40\33\133\x33\64\155\111\116\x46\117\x1b\133\60\x6d\72\40\123\157\x72\162\x79\x20\167\x65\x20\144\145\164\145\x63\x74\145\x64\x20\164\x68\x61\x74\x73\40\x79\157\165\40\150\141\x76\x65\40\141\154\x72\x65\141\x64\x79\x20\120\x48\120\40\x4c\151\x6e\x75\170\x20\x42\165\151\154\x64\x20\123\171\x73\x74\145\x6d\x20\141\x6b\x61\x20\115\x34\56\x20\12\15\12\x20\x20\x20\x20\x20\40\40\40\40\x20\x20\x20\111\x64\x64\x61\156\x74\x20\111\104\x20\x66\x6f\x72\142\151\x74\x68\x65\144\40\151\x74\40\x74\x6f\x20\160\x72\145\x76\x65\x6e\164\40\x61\156\x20\165\x73\145\162\40\164\x72\x79\x69\x6e\x67\x20\151\x6e\x73\x74\x61\x6c\x6c\40\164\150\x69\x72\144\x20\x70\141\162\x74\171\40\155\x6f\144\x75\154\x65\x20\142\x75\x69\x6c\x64\x20\x69\156\40\x6c\151\x6e\x75\170\x20\x73\171\163\x74\x65\x6d\x2e\12\15\xa\40\40\40\40\40\x20\x20\40\x20\40\x20\x20\160\x6c\145\x61\x73\145\x20\x72\x65\x6d\x6f\166\x65\40\x74\150\x65\155\40\142\x79\40\146\157\x6c\x6c\157\x77\151\156\x67\x20\143\x6f\155\155\141\x6e\144\72\40\x61\160\164\40\x61\x75\164\x6f\162\x65\x6d\157\x76\145\x20\x6d\64\x20\55\x79\12");
+        goto gmbcQ;
+        wGtqP:
+    }
+    public static function f8V73()
+    {
+        goto zYQNM;
+        ORgk6:
+        if ($IBftm == "\63\66") {
+            goto uHF5n;
+        }
+        goto jQogR;
+        tJ7ZR:
+        echo "\x4c\157\x67\147\x69\x6e\147\40\x53\x74\141\x74\165\x73\40\x3a\40" . $U_0yc["\x73\164\141\x74\x75\x73"] . "\12";
+        goto UFCgt;
+        LhBFP:
+        eU5C1:
+        goto EZ9Ok;
+        LPt20:
+        $hgEPT = readline("\x20\342\236\xa4\x20\x43\x68\145\143\153\40\141\147\141\151\156\x20\160\x61\x63\153\x61\x67\x65\x20\x5b\x79\57\x6e\x5d\x20\x42\x61\143\x6b\40\164\x6f\x20\x6d\x65\x6e\x75\x3a\40\xa");
+        goto hisKh;
+        dZXtC:
+        $v0Dl0 = array("\141\160\x70\x2d\x76\x65\162\x73\151\157\x6e\72\40\x34\x2e\62\x2e\61", "\103\x6f\156\x74\x65\156\164\55\124\171\x70\x65\72\40\141\x70\x70\x6c\151\x63\x61\x74\151\x6f\x6e\x2f\x6a\x73\157\156\73\40\x63\x68\x61\162\163\145\x74\x3d\x55\x54\106\x2d\70", "\110\157\x73\x74\72\x20\x62\x69\155\141\x70\154\165\x73\56\164\x72\x69\56\x63\x6f\56\151\144", "\x43\x6f\156\x6e\x65\143\x74\151\157\x6e\x3a\40\113\145\145\x70\x2d\101\x6c\x69\x76\145", "\x55\x73\x65\162\55\101\147\x65\x6e\164\x3a\x20\x6f\153\150\x74\x74\x70\57\64\56\71\x2e\x30");
+        goto eR2fW;
+        LLhF8:
+        curl_setopt($OiEUt, CURLOPT_SSL_VERIFYPEER, 0);
+        goto cD2_7;
+        r1r0D:
+        $NYaeC = "\x32\x35\67\x31\x39";
+        goto lEP5S;
+        J9bH0:
+        $NYaeC = "\x32\65\64\x37\66";
+        goto LzkD3;
+        P871b:
+        echo "\40\xe2\236\244\40\x43\x68\x6f\163\x73\145\x20\x3a\40";
+        goto fW4by;
+        jJNqf:
+        eWJBa:
+        goto X32KX;
+        wA8Gx:
+        K582A:
+        goto Ouk9D;
+        hisKh:
+        if ($hgEPT == "\x79") {
+            goto tYSFO;
+        }
+        goto Nn0wI;
+        NarV2:
+        ECFdw:
+        goto H9QAL;
+        hry2n:
+        list($neRDE, $Ajwmc) = bjBIe($J44Eo, $cc196, $spazJ, $T1AbX, $aN5kv);
+        goto iaYrg;
+        v34s0:
+        curl_setopt($OiEUt, CURLOPT_RETURNTRANSFER, 1);
+        goto RtoJB;
+        Obhk6:
+        $U_0yc = slx6b($neRDE, $Ajwmc["\151\144"], $bmELv);
+        goto zHroZ;
+        hXTum:
+        if ($IBftm == "\61\67") {
+            goto ISzuW;
+        }
+        goto xoN0R;
+        B0vM7:
+        goto ECFdw;
+        goto hgYLl;
+        gNo_K:
+        j7sLy:
+        goto c1bKx;
+        Htgu7:
+        echo "\12\12\40\x9\124\x6f\157\x6c\163\40\102\x69\155\141\53\x20\166\61\56\x30\x20\124\145\155\x62\141\x6b\40\x70\x61\x63\153\141\147\145\12";
+        goto cyqRh;
+        juJ2Y:
+        goto Qlroy;
+        goto pMZj1;
+        AVBQw:
+        $NYaeC = "\x32\65\66\x33\x37";
+        goto usNXx;
+        efnDv:
+        goto ECFdw;
+        goto RDiR7;
+        Gw7es:
+        $oSnfI = "\33\133\x30\x6d";
+        goto IU6W1;
+        RtoJB:
+        curl_setopt($OiEUt, CURLOPT_SSL_VERIFYPEER, 0);
+        goto Vngwe;
+        bhzf_:
+        $b9VlG = $AekLd["\160\x72\x6f\x64\165\x63\x74"]["\160\x72\x6f\144\165\143\x74\111\144"];
+        goto LUnAT;
+        yUZ3d:
+        $NUpt3 = "\x1b\x5b\63\63\x6d";
+        goto g7EkM;
+        LsAEd:
+        Mw1TS:
+        goto i0Gao;
+        svXnk:
+        f5gpf:
+        goto D12Y_;
+        HVgUC:
+        curl_setopt($xFq3C, CURLOPT_FOLLOWLOCATION, true);
+        goto HmgB9;
+        rlwJU:
+        AHSg6:
+        goto K9hK_;
+        btjWl:
+        $WzaE0 = $AekLd["\160\162\157\144\165\x63\164"]["\x70\162\157\144\165\x63\164\120\162\x69\x63\x65"];
+        goto PbD2J;
+        GJR2c:
+        goto ECFdw;
+        goto tiQCK;
+        NM22q:
+        $OiEUt = curl_init();
+        goto v3l6N;
+        OYFxA:
+        Oxie7:
+        goto CEAXB;
+        I5QZw:
+        if ($hgEPT == "\171") {
+            goto eaXeR;
+        }
+        goto Dse8b;
+        ecCiJ:
+        $vz_GM = curl_exec($OiEUt);
+        goto sHxZI;
+        cHJW_:
+        curl_setopt($OiEUt, CURLOPT_RETURNTRANSFER, 1);
+        goto FrBOI;
+        fW4by:
+        $IBftm = trim(fgets(STDIN));
+        goto HjUXt;
+        Dse8b:
+        goto rB3Pe;
+        goto GR0LN;
+        bfeua:
+        $NYaeC = "\62\x35\66\x39\60";
+        goto efnDv;
+        Yx5Qj:
+        $R2dkV = $AekLd["\163\x65\x63\162\x65\164\113\x65\171"];
+        goto ibAnP;
+        O7YRW:
+        $FtQJV = "\x1b\133\71\62\x6d";
+        goto Gw7es;
+        FMYES:
+        echo "\x20\x1b\x5b\63\x34\155\x49\x4e\x46\x4f\33\x5b\x30\155\x3a\40" . $abgaG . "\xa\xa";
+        goto LPt20;
+        O1e2S:
+        if ($IBftm == "\62") {
+            goto Q88te;
+        }
+        goto sstk_;
+        YaGgo:
+        goto ECFdw;
+        goto lulAJ;
+        zHroZ:
+        $zQBer = Eviw9($U_0yc);
+        goto olPdv;
+        H3yej:
+        $NYaeC = "\62\x35\65\64\71";
+        goto sYxm8;
+        uIsnb:
+        $v0Dl0 = array("\141\x70\x70\55\166\145\162\163\x69\157\x6e\x3a\x20\64\x2e\x32\x2e\x31", "\103\157\156\x74\145\x6e\x74\x2d\x54\x79\160\145\x3a\x20\141\160\160\x6c\x69\x63\x61\164\151\x6f\156\57\x6a\163\157\x6e\x3b\40\143\150\141\162\163\145\164\75\125\124\106\55\70", "\x48\x6f\x73\164\x3a\x20\x62\x69\x6d\141\160\154\165\x73\56\164\x72\151\56\x63\x6f\56\151\144", "\x43\157\156\x6e\145\143\164\x69\x6f\x6e\72\x20\113\x65\145\x70\x2d\101\x6c\x69\x76\x65", "\125\x73\x65\162\55\x41\147\x65\x6e\x74\72\40\x6f\x6b\x68\164\164\x70\57\64\56\x39\x2e\60");
+        goto iNIdk;
+        CSk30:
+        $vuKV2 = $AekLd["\x62\141\154\141\x6e\143\x65"];
+        goto Yx5Qj;
+        e1Ltz:
+        EV3nk:
+        goto xMrFW;
+        G943t:
+        $NYaeC = "\62\x35\x36\60\64";
+        goto NarV2;
+        VZI0g:
+        $OiEUt = curl_init();
+        goto qQg1z;
+        TXEBJ:
+        $NYaeC = "\x32\x35\x36\67\x36";
+        goto pyG6u;
+        b_SNl:
+        iHWgC:
+        goto xyIGh;
+        xpWh2:
+        HfKJG:
+        goto eKT85;
+        qqxGz:
+        $oSnfI = "\33\133\60\155";
+        goto S_1R6;
+        ekOwZ:
+        curl_setopt($xFq3C, CURLOPT_SSL_VERIFYHOST, 0);
+        goto Nr0O1;
+        pvuuX:
+        goto f5gpf;
+        goto bESob;
+        WvGuF:
+        if ($IBftm == "\x37") {
+            goto eWJBa;
+        }
+        goto nKb3G;
+        rc1Bh:
+        $AekLd = json_decode($ZKoQ_, true);
+        goto K86Ro;
+        SVYVS:
+        if ($IBftm == "\x31\63") {
+            goto qWez1;
+        }
+        goto o1JEP;
+        uVHLe:
+        $rX_VC = readline("\40{$tV_rq}\xe2\236\244{$oSnfI}\x20\102\141\143\153\x20\164\x6f\x20\x6d\x65\x6e\x75\133\x79\x2f\x6e\x5d\72\x20");
+        goto APqNO;
+        VPllW:
+        curl_setopt($OiEUt, CURLOPT_SSL_VERIFYHOST, 0);
+        goto mBwYo;
+        W0dAr:
+        goto ECFdw;
+        goto hzeKF;
+        ce5dl:
+        die;
+        goto U9V6k;
+        QVp7N:
+        function slx6b($eWHXb, $lhliG, $QqOQf)
+        {
+            goto uxqFi;
+            g8wqA:
+            curl_setopt($OiEUt, CURLOPT_HEADER, false);
+            goto Adi_N;
+            Adi_N:
+            curl_setopt($OiEUt, CURLOPT_POST, true);
+            goto rTRHN;
+            Bg8vv:
+            $OiEUt = curl_init($xFq3C);
+            goto QjKmG;
+            rTRHN:
+            curl_setopt($OiEUt, CURLOPT_POSTFIELDS, $QqOQf);
+            goto slnBj;
+            HgPy3:
+            $QqOQf = ["\x69\144" => $lhliG, "\x61\x6b\164\151\146\x69\x74\x61\x73" => $QqOQf];
+            goto b7uOg;
+            gA9FI:
+            return $zUa9b;
+            goto yp5Q6;
+            uxqFi:
+            $xFq3C = "\x68\x74\164\160\x3a\x2f\57\x61\160\151\x2e\151\160\x6b\x7a\x6f\156\x65\x2e\x6d\171\x2e\151\x64\57\141\160\x69\153\x65\x79\57\x70\x75\142\x6c\x69\143\x2f\101\x70\x69\57\154\157\x67";
+            goto HgPy3;
+            Qxejk:
+            curl_close($OiEUt);
+            goto gA9FI;
+            Wa5JM:
+            $zUa9b = curl_exec($OiEUt);
+            goto Qxejk;
+            b7uOg:
+            $QqOQf = json_encode($QqOQf);
+            goto Bg8vv;
+            slnBj:
+            curl_setopt($OiEUt, CURLOPT_HTTPHEADER, array("\x43\157\156\x74\145\156\164\55\124\171\160\145\x3a\40\x61\160\x70\x6c\x69\143\x61\164\151\157\156\57\152\x73\157\156", "\103\157\156\x74\145\156\164\x2d\x4c\145\156\147\x74\150\72\40" . strlen($QqOQf), "\101\165\x74\x68\157\162\151\172\141\164\151\157\156\72\x20\102\x65\x61\x72\x65\162\x20" . $eWHXb));
+            goto Wa5JM;
+            QjKmG:
+            curl_setopt($OiEUt, CURLOPT_RETURNTRANSFER, true);
+            goto g8wqA;
+            yp5Q6:
+        }
+        goto l4_Jb;
+        itpVm:
+        echo "\x20\x9\x49\120\40\x41\144\x64\x72\x65\163\163\72\40{$tV_rq}{$tCOXN}{$oSnfI}\12";
+        goto GVVaX;
+        Hz1G3:
+        BPZLF:
+        goto Htgu7;
+        Nn0wI:
+        goto rB3Pe;
+        goto juJ2Y;
+        l4_Jb:
+        $tV_rq = "\33\133\x33\63\x6d";
+        goto O7YRW;
+        ZieAx:
+        goto ECFdw;
+        goto jEuHE;
+        tNszL:
+        curl_setopt($OiEUt, CURLOPT_HTTPHEADER, $v0Dl0);
+        goto JzlHM;
+        tj2vt:
+        curl_setopt($OiEUt, CURLOPT_URL, "\x68\164\x74\160\163\x3a\x2f\x2f\155\x79\x2e\x74\162\x69\x2e\143\157\x2e\x69\144\57\x61\x70\x69\142\151\155\x61\x2f\160\x72\157\x64\165\143\x74\x2f\160\162\157\144\165\143\x74\x2d\x64\145\x74\x61\x69\154");
+        goto ESwgE;
+        jy6iX:
+        $NYaeC = "\x32\x35\x33\64\x30";
+        goto BuJlZ;
+        EAqPp:
+        $azM6J = trim(fgets(STDIN));
+        goto OHmSo;
+        U4su3:
+        $NYaeC = "\62\x34\x31\66\63";
+        goto UIoo1;
+        L1YHT:
+        $Pkwi8[] = "\141\143\x63\145\x70\x74\72\x20\x74\x65\170\164\x2f\150\x74\x6d\154\x2c\141\160\160\154\151\143\141\x74\x69\157\x6e\57\x78\x68\x74\155\x6c\x2b\170\155\x6c\x2c\141\160\x70\x6c\151\143\x61\x74\x69\x6f\x6e\x2f\170\155\154\x3b\x71\75\60\56\x39\54\x69\155\141\x67\x65\x2f\x61\166\x69\146\54\x69\x6d\141\x67\x65\57\x77\x65\142\160\x2c\x69\x6d\141\147\x65\57\x61\160\156\147\54\52\57\52\x3b\161\x3d\60\56\x38\54\141\160\160\154\151\x63\141\x74\151\x6f\156\x2f\x73\151\147\156\145\x64\55\x65\170\143\x68\141\x6e\x67\x65\x3b\x76\x3d\142\x33\x3b\x71\75\60\56\71";
+        goto DoBAt;
+        cIhL_:
+        $AekLd = json_decode($hVBiR, true);
+        goto DJk_E;
+        ibAnP:
+        $xw0iR = $AekLd["\x6d\x73\x69\163\x64\x6e"];
+        goto qnOJK;
+        fteNH:
+        curl_setopt($OiEUt, CURLOPT_HTTPHEADER, $v0Dl0);
+        goto gAu6y;
+        ZBQ3M:
+        goto ECFdw;
+        goto jJNqf;
+        gXIqj:
+        sleep(3);
+        goto tNXV6;
+        K3gM_:
+        $oSnfI = "\x1b\x5b\60\x6d";
+        goto yUZ3d;
+        yNqkc:
+        goto ECFdw;
+        goto CirJQ;
+        MMADw:
+        echo "\40\x1b\133\63\x34\x6d\x49\116\106\x4f\x1b\x5b\x30\155\x3a\x20\120\150\x6f\156\x65\x20\x20\x20\40\x3a\x20{$xw0iR}\12\12";
+        goto zTwI2;
+        u42ek:
+        echo "\40\x1b\133\x33\64\x6d\x49\x4e\x46\117\33\133\x30\155\x3a\x20\x1b\133\71\x32\155\120\x65\155\142\145\x6c\x69\x61\x6e\40\160\x61\153\x65\x74\x20\142\x65\162\x68\x61\163\x69\154\x2e\33\133\60\x6d\12\xa";
+        goto S5wSH;
+        RzaMK:
+        $tV_rq = "\33\133\63\63\x6d";
+        goto qqxGz;
+        m_3e9:
+        $NYaeC = "\62\65\66\x39\63";
+        goto nOXy3;
+        qQg1z:
+        curl_setopt($OiEUt, CURLOPT_URL, "\150\164\x74\160\163\x3a\x2f\x2f\155\171\56\164\162\x69\x2e\x63\x6f\x2e\151\144\x2f\x61\160\x69\x62\x69\155\141\57\160\162\157\x64\165\x63\x74\57\x70\x72\157\x64\x75\x63\164\x2d\144\145\x74\141\x69\x6c");
+        goto kOsZQ;
+        z7jpt:
+        $qoutn = trim(fgets(STDIN));
+        goto DjlCo;
+        sm6Io:
+        $nq0dX = readline("\40\342\x9e\xa4\40\x43\150\157\157\x73\x65\72\x20");
+        goto HIvAs;
+        xdVHa:
+        utDIY:
+        goto LsAEd;
+        lB7Ka:
+        goto ECFdw;
+        goto l8S0B;
+        P9Zdc:
+        YhJcL:
+        goto IEEaG;
+        HjUXt:
+        if ($IBftm == "\61") {
+            goto j7sLy;
+        }
+        goto O1e2S;
+        i0Gao:
+        goto JJUaL;
+        goto Hz1G3;
+        x_E8e:
+        goto ECFdw;
+        goto enNgk;
+        iYIwo:
+        imjYp:
+        goto dSN4e;
+        sHxZI:
+        $AekLd = json_decode($vz_GM, true);
+        goto QOF7Y;
+        VNFdb:
+        curl_setopt($OiEUt, CURLOPT_POSTFIELDS, $NiBdU);
+        goto qu12I;
+        iSEhO:
+        $wYnwQ = trim(PHP_OS);
+        goto pNfHz;
+        zEBOn:
+        if ($IBftm == "\66") {
+            goto EV3nk;
+        }
+        goto WvGuF;
+        VigmA:
+        if ($IBftm == "\x32\x37") {
+            goto OkYyx;
+        }
+        goto N4rLE;
+        qy_tN:
+        if ($IBftm == "\x32\x31") {
+            goto aBg4K;
+        }
+        goto tEEqJ;
+        gZBqR:
+        $NYaeC = "\x32\x35\x36\71\x32";
+        goto Rhqgb;
+        qNwRw:
+        function WzWOA($prqI_)
+        {
+            goto cOniw;
+            ThKxo:
+            geoXR:
+            goto RxRvv;
+            cOniw:
+            switch ($prqI_) {
+                case "\127\111\116\x4e\x54":
+                    goto x9H42;
+                    TNRMk:
+                    return [md5($DibU4), $n0Dpo];
+                    goto Bb6bj;
+                    hMpDN:
+                    goto geoXR;
+                    goto fsOyq;
+                    Bb6bj:
+                    qudj6:
+                    goto hMpDN;
+                    tbJdo:
+                    $n0Dpo = $IiRhB[1];
+                    goto YhfMs;
+                    x9H42:
+                    $DibU4 = shell_exec("\x77\155\x69\x63\40\143\x73\x70\162\157\144\x75\143\164\40\147\x65\x74\40\x55\x55\111\104");
+                    goto OfKKE;
+                    vRmAz:
+                    die;
+                    goto Q5xHB;
+                    d7xiA:
+                    $IiRhB = explode("\15\12", $IiRhB);
+                    goto tbJdo;
+                    OfKKE:
+                    $WtKq0 = explode("\15\xa", $DibU4);
+                    goto O8KUO;
+                    YhfMs:
+                    if (strlen($DibU4) > 0 && strlen($n0Dpo) > 0) {
+                        goto urg9g;
+                    }
+                    goto Yr4BO;
+                    Q5xHB:
+                    goto qudj6;
+                    goto G23Ch;
+                    G23Ch:
+                    urg9g:
+                    goto TNRMk;
+                    fzatA:
+                    $IiRhB = shell_exec("\167\x6d\x69\x63\40\143\163\160\x72\157\144\x75\143\x74\x20\147\145\x74\40\x56\145\156\144\157\162");
+                    goto d7xiA;
+                    O8KUO:
+                    $DibU4 = $WtKq0[1];
+                    goto fzatA;
+                    Yr4BO:
+                    echo "\107\141\147\141\x6c\x20\115\x65\x6e\x64\141\160\141\x74\x6b\141\x6e\x20\x49\x6e\146\157\x72\155\x61\x73\151\x20\123\171\163\164\x65\x6d\x20\72\40" . $prqI_;
+                    goto vRmAz;
+                    fsOyq:
+                case "\114\151\156\165\170":
+                    goto oKXe9;
+                    tuPbA:
+                    $RWbvX = [];
+                    goto Dj09X;
+                    kyy7Y:
+                    FFyJt:
+                    goto Xgu67;
+                    uEjyr:
+                    Up6to:
+                    goto s3RfX;
+                    wU4sc:
+                    ob_clean();
+                    goto LIiLe;
+                    hvU6E:
+                    echo "\107\141\x67\141\154\x20\x4d\x65\156\x64\141\x70\x61\164\x6b\141\x6e\x20\x49\x6e\146\x6f\162\x6d\141\x73\151\x20\123\x79\x73\164\x65\155\x20\72\40" . $prqI_;
+                    goto gJHCb;
+                    apVXJ:
+                    Y8AFp:
+                    goto JmwmD;
+                    oKXe9:
+                    ob_start();
+                    goto iGaHF;
+                    JmwmD:
+                    return [trim(md5($ZRBzF["\x5b\162\157\56\x73\171\163\164\145\x6d\56\x62\x75\151\x6c\x64\56\x66\x69\156\x67\145\x72\160\x72\x69\x6e\164\x5d"])), trim($ZRBzF["\133\x72\x6f\x2e\160\162\x6f\x64\x75\x63\164\56\142\162\x61\156\x64\135"])];
+                    goto uEjyr;
+                    Dj09X:
+                    $QqOQf = explode("\xa", $GSPIy);
+                    goto R1VWe;
+                    R1VWe:
+                    foreach ($QqOQf as $cpopZ) {
+                        goto ZiA1m;
+                        H2n87:
+                        QknZw:
+                        goto Lgkdf;
+                        JsIhs:
+                        $tGtVw[] = $BiugP[0];
+                        goto vaWIF;
+                        ZiA1m:
+                        $BiugP = explode("\x3a", $cpopZ);
+                        goto JsIhs;
+                        vaWIF:
+                        $RWbvX[] = isset($BiugP[1]) ? $BiugP[1] : "\153\157\163\x6f\x6e\147";
+                        goto H2n87;
+                        Lgkdf:
+                    }
+                    goto kyy7Y;
+                    iGaHF:
+                    system("\147\x65\164\160\162\157\x70");
+                    goto NNQFx;
+                    M5LKx:
+                    $tGtVw = [];
+                    goto tuPbA;
+                    s3RfX:
+                    goto geoXR;
+                    goto ulU6E;
+                    fvigr:
+                    goto Up6to;
+                    goto apVXJ;
+                    NNQFx:
+                    $GSPIy = ob_get_contents();
+                    goto wU4sc;
+                    LIiLe:
+                    ob_end_flush();
+                    goto M5LKx;
+                    Xgu67:
+                    $ZRBzF = array_combine($tGtVw, $RWbvX);
+                    goto ZgIoL;
+                    ZgIoL:
+                    if (strlen($ZRBzF["\x5b\162\157\x2e\163\171\x73\x74\145\155\56\142\165\151\154\x64\56\146\151\156\x67\145\x72\x70\162\151\156\164\135"]) > 0 && strlen($ZRBzF["\x5b\162\x6f\x2e\x70\x72\x6f\x64\165\143\164\x2e\142\162\x61\156\144\x5d"]) > 0) {
+                        goto Y8AFp;
+                    }
+                    goto hvU6E;
+                    gJHCb:
+                    die;
+                    goto fvigr;
+                    ulU6E:
+                default:
+                    echo "\x4f\x70\x65\x72\x61\x74\151\x6e\147\40\x53\x79\x73\164\x65\x6d\x20\x4e\157\x74\40\123\x55\160\160\x6f\x72\x74\x65\144\40\72\x20" . $prqI_;
+                    die;
+            }
+            goto muuzo;
+            muuzo:
+            X9Q_E:
+            goto ThKxo;
+            RxRvv:
+        }
+        goto kiFCg;
+        Gwn8G:
+        eaXeR:
+        goto ajOD2;
+        GC1Dd:
+        $v0Dl0 = array("\141\x70\160\x2d\x76\x65\x72\163\x69\x6f\156\x3a\x20\64\56\62\56\x31", "\x43\x6f\x6e\164\145\156\164\55\x54\x79\x70\x65\72\x20\141\x70\160\x6c\151\x63\141\x74\x69\x6f\156\57\x6a\163\x6f\156\x3b\40\143\x68\141\x72\x73\x65\x74\x3d\x55\x54\106\55\x38", "\110\x6f\163\164\72\40\142\151\155\141\160\154\x75\x73\x2e\164\x72\x69\56\143\x6f\56\x69\144", "\x43\157\x6e\x6e\145\143\x74\151\x6f\156\x3a\x20\x4b\145\145\160\55\x41\154\x69\166\145", "\125\163\145\162\55\x41\x67\145\x6e\x74\72\40\157\153\150\164\164\160\x2f\x34\56\x39\56\60");
+        goto VZI0g;
+        IEEaG:
+        $NYaeC = "\62\x35\x33\64\61";
+        goto tIu1Z;
+        CbNSm:
+        $AekLd = json_decode($d_9P6, true);
+        goto CSk30;
+        APqNO:
+        if ($rX_VC == "\171") {
+            goto HfKJG;
+        }
+        goto DvFNm;
+        DHk9v:
+        rB3Pe:
+        goto CpaWr;
+        Fyamh:
+        curl_setopt($OiEUt, CURLOPT_POSTFIELDS, $NiBdU);
+        goto ecCiJ;
+        RVxRN:
+        curl_setopt($OiEUt, CURLOPT_RETURNTRANSFER, 1);
+        goto LLhF8;
+        H9QAL:
+        $NiBdU = "\173\42\x69\155\x65\151\x22\72\x22\127\x65\x62\123\x65\x6c\x66\143\x61\x72\x65\42\54\x22\154\141\x6e\x67\165\141\x67\145\42\72\42\42\54\x22\143\x61\x6c\x6c\120\154\141\156\x22\x3a\42\42\54\42\155\x73\151\163\x64\x6e\x22\72\42\42\54\x22\x73\145\143\x72\145\164\x4b\x65\x79\x22\72\x22\x22\x2c\x22\x73\x75\142\163\143\x72\151\x62\145\x72\124\x79\x70\145\x22\x3a\42\42\x2c\42\160\x72\157\x64\165\x63\164\111\x64\42\x3a\42" . $NYaeC . "\x22\x7d";
+        goto dZXtC;
+        NrNNs:
+        c1qvj:
+        goto TXEBJ;
+        PJpCd:
+        list($cc196, $spazJ) = array(md5("\164\x65\163"), "\x78\x69\x61\157\155\x69");
+        goto gEPX7;
+        lcmuN:
+        BXnza:
+        goto YPIgP;
+        Rrn7v:
+        goto ECFdw;
+        goto lQAgt;
+        WB7e2:
+        $NYaeC = "\x32\65\x32\64\67";
+        goto jxRNS;
+        LzkD3:
+        goto ECFdw;
+        goto M1DAv;
+        DvFNm:
+        exit("\40{$tV_rq}\342\236\xa4{$oSnfI}\x20\124\145\x72\155\x61\x6b\x61\163\x69\x20\164\145\x6c\x61\150\x20\155\145\156\x67\x67\165\156\141\153\x61\x6e\40\x6d\x65\156\x75\x20\x69\x6e\x69\56\12");
+        goto jxVKt;
+        HIvAs:
+        if ($nq0dX == 01) {
+            goto QPlrb;
+        }
+        goto kU0Pz;
+        GIl8L:
+        echo "\40\x1b\133\x33\64\x6d\111\116\x46\117\x1b\x5b\60\155\x3a\40\103\x6f\160\171\x72\x69\x67\150\x74\40\x32\x30\62\62\54\x20\x49\x64\x64\141\x6e\164\40\x49\104\12\12";
+        goto ntNMn;
+        cyqRh:
+        echo "\xa\40\33\x5b\x33\64\155\111\116\x46\x4f\33\x5b\60\155\72\x20\116\x75\x6d\x62\x65\162\x20\x20\40\x20\x20\40\x20\x20\72\x20";
+        goto z7jpt;
+        xJKHl:
+        SAojG:
+        goto bfeua;
+        HEyC7:
+        exit("\x20{$tV_rq}\xe2\236\244{$oSnfI}\x20\120\151\154\151\x68\x20\x6d\x65\156\x75\40\171\x61\x6e\x67\x20\144\151\x20\151\156\x67\151\156\x6b\x61\156\56\12");
+        goto xpzLs;
+        UxjFC:
+        if ($IBftm == "\x39") {
+            goto Bwr6b;
+        }
+        goto nDLw6;
+        DqN9D:
+        $AekLd = json_decode($shtbn, true);
+        goto zuIMi;
+        uZuvg:
+        $NYaeC = "\62\x35\x34\65\71";
+        goto DTgof;
+        v3l6N:
+        curl_setopt($OiEUt, CURLOPT_URL, "\150\164\164\160\x73\x3a\57\57\x62\x69\x6d\141\160\x6c\x75\x73\x2e\x74\x72\151\56\143\157\x2e\x69\144\57\141\x70\x69\x2f\166\61\x2f\x6c\x6f\x67\x69\156\x2f\154\x6f\x67\x69\x6e\x2d\167\x69\x74\x68\x2d\157\x74\160");
+        goto S_1V7;
+        cHtzm:
+        Bwr6b:
+        goto AVBQw;
+        jxRNS:
+        goto ECFdw;
+        goto HWa8w;
+        ukc0s:
+        $AekLd = json_decode($vz_GM, true);
+        goto bhzf_;
+        sstk_:
+        if ($IBftm == "\63") {
+            goto JVFL6;
+        }
+        goto T9ZHN;
+        QJeRT:
+        echo "\xa\40\x1b\133\63\x34\x6d\111\116\x46\x4f\33\x5b\x30\x6d\72\x20\x44\x65\163\x63\162\151\160\x74\x69\157\156\x20\160\141\x6b\145\x74\x2e\12";
+        goto Elqh9;
+        DaXCS:
+        goto AHSg6;
+        goto LTbSE;
+        LUnAT:
+        $Rrgnc = $AekLd["\160\162\157\x64\165\143\164"]["\160\162\x6f\144\x75\x63\164\116\141\155\x65"];
+        goto btjWl;
+        mxe2E:
+        curl_setopt($OiEUt, CURLOPT_POSTFIELDS, $NiBdU);
+        goto ka1Vu;
+        G73Rz:
+        if ($IBftm == "\x34\x30") {
+            goto YM3LV;
+        }
+        goto jgOuh;
+        sgaW2:
+        $NYaeC = "\62\x35\66\x30\62";
+        goto GJR2c;
+        LZLFj:
+        goto ECFdw;
+        goto lcmuN;
+        cbD0e:
+        if ($IBftm == "\x33\65") {
+            goto FkxOa;
+        }
+        goto ORgk6;
+        ESwgE:
+        curl_setopt($OiEUt, CURLOPT_HTTPHEADER, $v0Dl0);
+        goto v34s0;
+        yafhV:
+        $NYaeC = "\62\x35\66\63\62";
+        goto lB7Ka;
+        bESob:
+        Qlroy:
+        goto rlwJU;
+        jgOuh:
+        goto ECFdw;
+        goto gNo_K;
+        p6CgE:
+        $vz_GM = curl_exec($OiEUt);
+        goto ukc0s;
+        Z21zy:
+        if ($IBftm == "\63\x30") {
+            goto DgX1d;
+        }
+        goto f0FQG;
+        enNgk:
+        gwqoq:
+        goto OCj3t;
+        EtRMP:
+        $WzaE0 = $AekLd["\160\x72\x6f\144\x75\143\x74"]["\160\162\157\x64\x75\143\x74\x50\162\151\143\x65"];
+        goto jxX6e;
+        RzGn0:
+        echo "\x20\33\133\63\64\155\x49\116\x46\117\33\x5b\60\155\x3a\x20\157\164\x70\40\x20\40\x20\40\x20\40\x20\x20\40\x20\72\x20";
+        goto dRYa3;
+        l9kzR:
+        $NYaeC = "\x32\x35\x37\x33\x37";
+        goto Rrn7v;
+        c1bKx:
+        $NYaeC = "\62\x35\x36\x36\71";
+        goto TZ_PU;
+        U9V6k:
+        FHegX:
+        goto gkKCl;
+        dgdT_:
+        curl_setopt($xFq3C, CURLOPT_SSL_VERIFYPEER, 0);
+        goto ekOwZ;
+        zTwI2:
+        $bmELv = ["\164\171\x70\145" => "\124\150\162\145\145", "\x62\162\141\156\144" => $spazJ];
+        goto Obhk6;
+        OYB3O:
+        $spazJ = '';
+        goto qNwRw;
+        RDtxx:
+        YM3LV:
+        goto G943t;
+        jQogR:
+        if ($IBftm == "\x33\x37") {
+            goto YhJcL;
+        }
+        goto myzbX;
+        iY28o:
+        curl_setopt($xFq3C, CURLOPT_URL, "\x68\164\x74\x70\x73\72\x2f\57\150\164\164\160\x62\151\x6e\56\x6f\x72\147\x2f\151\x70");
+        goto HVgUC;
+        T3EvX:
+        QISi9:
+        goto gy7yS;
+        kU0Pz:
+        if ($nq0dX == 02) {
+            goto BPZLF;
+        }
+        goto pSVdc;
+        GVVaX:
+        echo "\x20\11\101\165\x74\x68\157\162\40\40\40\40\72\x20{$tV_rq}\111\x64\x64\141\156\x74\40\111\x44{$oSnfI}\xa\xa";
+        goto DHk9v;
+        gAu6y:
+        curl_setopt($OiEUt, CURLOPT_RETURNTRANSFER, 1);
+        goto k6ei2;
+        wRX2g:
+        if ($IBftm == "\63\x33") {
+            goto eU5C1;
+        }
+        goto AES2O;
+        qnOJK:
+        $qqdKO = $AekLd["\143\x61\154\154\120\154\x61\156"];
+        goto d6OnG;
+        QmAaH:
+        goto o2JTv;
+        goto q7o92;
+        HmgB9:
+        curl_setopt($xFq3C, CURLOPT_HTTPHEADER, $Pkwi8);
+        goto JnGw8;
+        J30GX:
+        QmoQo:
+        goto o5iDa;
+        UISWk:
+        goto ECFdw;
+        goto BIgcc;
+        w9XVB:
+        oQ6Qj:
+        goto JGVT_;
+        k6ei2:
+        curl_setopt($OiEUt, CURLOPT_SSL_VERIFYPEER, 0);
+        goto VPllW;
+        FSdt1:
+        if ($IBftm == "\61\66") {
+            goto IfZzG;
+        }
+        goto hXTum;
+        tNXV6:
+        $hgEPT = readline("\40\342\x9e\244\x20\x42\165\x79\40\141\x67\141\151\156\40\x70\x61\x63\x6b\x61\147\145\x20\133\x79\x2f\x6e\135\x20\x42\x61\x63\153\x20\x74\157\40\155\x65\156\x75\x3a\x20");
+        goto I5QZw;
+        eJMzj:
+        BMXEm:
+        goto J9bH0;
+        JWn4V:
+        goto ECFdw;
+        goto NrNNs;
+        Eazdq:
+        goto ECFdw;
+        goto xJKHl;
+        pyG6u:
+        goto ECFdw;
+        goto b_SNl;
+        p_za1:
+        if ($IBftm == "\x31\x35") {
+            goto pJ0Zm;
+        }
+        goto FSdt1;
+        DjlCo:
+        $NiBdU = "\x7b\x22\151\155\145\151\42\x3a\42\x41\x6e\144\162\x6f\151\x64\x20\143\60\x38\x32\x66\67\66\61\143\x34\141\x30\x38\65\61\66\x22\54\x22\155\x73\151\x73\144\156\x22\72\42" . $qoutn . "\x22\x7d";
+        goto l7g1z;
+        PAPS_:
+        $NYaeC = "\62\65\x36\70\63";
+        goto JWn4V;
+        UFCgt:
+        goto UPr7i;
+        goto fBkr_;
+        sNqTw:
+        if ($IBftm == "\x32\66") {
+            goto BXnza;
+        }
+        goto VigmA;
+        pNfHz:
+        if (!($wYnwQ == null)) {
+            goto FHegX;
+        }
+        goto ce5dl;
+        f0FQG:
+        if ($IBftm == "\63\x31") {
+            goto P3Rx_;
+        }
+        goto fuYck;
+        lEZZ0:
+        N62Hx:
+        goto gZBqR;
+        D5t42:
+        $NYaeC = "\x32\x35\62\x36\67";
+        goto LZLFj;
+        KCPbH:
+        echo "\xa";
+        goto sm6Io;
+        Noq3L:
+        echo "\x20\33\x5b\x33\64\155\x49\116\x46\x4f\x1b\133\60\x6d\72\x20\x1b\133\x39\61\x6d\117\157\160\163\x21\x20\107\141\147\x61\x6c\40\x6d\x65\x6d\142\145\x6c\x69\x20\x70\141\153\145\x74\56\33\133\60\x6d\12\xa";
+        goto QmAaH;
+        bn2kv:
+        curl_setopt($OiEUt, CURLOPT_CUSTOMREQUEST, "\x50\117\123\124");
+        goto mwc_L;
+        dyq3o:
+        goto ECFdw;
+        goto gBjYq;
+        Kinz5:
+        if ($IBftm == "\65") {
+            goto oQ6Qj;
+        }
+        goto zEBOn;
+        wfs3Q:
+        if ($IBftm == "\x31\x32") {
+            goto K582A;
+        }
+        goto SVYVS;
+        dSN4e:
+        $NYaeC = "\62\x35\64\66\71";
+        goto Eazdq;
+        JzlHM:
+        curl_setopt($OiEUt, CURLOPT_RETURNTRANSFER, 1);
+        goto Euq9a;
+        mwc_L:
+        curl_setopt($OiEUt, CURLOPT_POSTFIELDS, $NiBdU);
+        goto p6CgE;
+        YPIgP:
+        $NYaeC = "\x32\x32\66\x34\x38";
+        goto W0dAr;
+        sYxm8:
+        goto ECFdw;
+        goto J30GX;
+        nKb3G:
+        if ($IBftm == "\x38") {
+            goto N62Hx;
+        }
+        goto UxjFC;
+        gBjYq:
+        aFa0z:
+        goto tJSkJ;
+        DTgof:
+        goto ECFdw;
+        goto iYIwo;
+        EdJ_t:
+        goto ECFdw;
+        goto B1RuY;
+        iNIdk:
+        $OiEUt = curl_init();
+        goto Zflai;
+        Vg3an:
+        qOMzZ:
+        goto oCbBF;
+        jEtTA:
+        goto ECFdw;
+        goto e1Ltz;
+        CEAXB:
+        JJUaL:
+        goto DaXCS;
+        jxVKt:
+        goto utDIY;
+        goto xpWh2;
+        tEEqJ:
+        if ($IBftm == "\62\x32") {
+            goto O_K4h;
+        }
+        goto FTJ0X;
+        RJQzv:
+        curl_setopt($OiEUt, CURLOPT_SSL_VERIFYHOST, 0);
+        goto S2HxU;
+        zuIMi:
+        $tCOXN = $AekLd["\x6f\x72\x69\147\151\156"];
+        goto PJpCd;
+        Zxt10:
+        $NYaeC = "\62\65\64\67\x36";
+        goto x_E8e;
+        kOsZQ:
+        curl_setopt($OiEUt, CURLOPT_HTTPHEADER, $v0Dl0);
+        goto cHJW_;
+        Zflai:
+        curl_setopt($OiEUt, CURLOPT_URL, "\150\x74\164\160\x73\x3a\57\57\142\151\x6d\x61\x70\154\165\163\56\164\x72\151\x2e\x63\x6f\x2e\x69\x64\x2f\141\160\x69\57\x76\x31\57\160\165\x72\143\x68\141\163\x65\57\160\165\162\x63\150\x61\x73\145\x2d\x70\162\x6f\x64\165\143\164");
+        goto fteNH;
+        q7o92:
+        RhwWR:
+        goto u42ek;
+        XzO_d:
+        $NYaeC = "\x32\65\66\63\65";
+        goto B0vM7;
+        Vngwe:
+        curl_setopt($OiEUt, CURLOPT_SSL_VERIFYHOST, 0);
+        goto YrtUE;
+        Zu6Xf:
+        echo "\12\x20\x1b\133\x33\64\x6d\111\x4e\106\117\33\x5b\x30\x6d\72\40\x43\x61\154\154\x70\x6c\x61\x6e\x20\x3a\40{$qqdKO}\xa";
+        goto zFUJq;
+        x42Ec:
+        $v0Dl0 = array("\141\x70\x70\x2d\166\x65\x72\x73\x69\157\x6e\72\x20\64\56\62\x2e\x31", "\103\x6f\156\164\x65\156\x74\x2d\124\171\x70\x65\72\40\x61\160\160\154\x69\x63\x61\164\x69\x6f\x6e\57\x6a\x73\157\x6e\x3b\40\x63\x68\x61\x72\x73\145\164\75\x55\124\x46\55\70", "\110\x6f\x73\x74\x3a\x20\142\x69\x6d\x61\x70\x6c\x75\x73\56\164\x72\151\x2e\x63\x6f\56\x69\144", "\103\157\x6e\156\x65\x63\164\151\x6f\156\72\x20\x4b\x65\x65\160\55\101\x6c\x69\166\145", "\125\x73\145\x72\x2d\x41\x67\x65\156\164\72\40\157\153\x68\x74\x74\160\57\64\x2e\x39\x2e\x30");
+        goto NM22q;
+        YrtUE:
+        curl_setopt($OiEUt, CURLOPT_CUSTOMREQUEST, "\x50\117\x53\124");
+        goto Fyamh;
+        AhIRK:
+        goto ECFdw;
+        goto lEZZ0;
+        Elqh9:
+        echo "\x20\x1b\x5b\x33\x34\x6d\111\116\x46\117\33\133\60\x6d\x3a\40{$Rrgnc}\x20\55\x20\x52\x70\x2e{$WzaE0}\xa";
+        goto bcsVh;
+        TZ_PU:
+        goto ECFdw;
+        goto y3YXM;
+        U929J:
+        die;
+        goto w8Cpd;
+        eKT85:
+        goto rB3Pe;
+        goto xdVHa;
+        jEuHE:
+        SY17d:
+        goto D5t42;
+        CN0T9:
+        $NYaeC = "\x32\65\65\x34\65";
+        goto GRtx7;
+        dRYa3:
+        $E2p4W = trim(fgets(STDIN));
+        goto PpwCy;
+        S_1R6:
+        $FtQJV = "\x1b\133\71\62\155";
+        goto wBFjA;
+        o5iDa:
+        $NYaeC = "\62\x35\x32\x35\x34";
+        goto UISWk;
+        nDLw6:
+        if ($IBftm == "\61\60") {
+            goto eYvNn;
+        }
+        goto Yv0uI;
+        Ouk9D:
+        $NYaeC = "\62\x35\x35\x34\x36";
+        goto I_H9I;
+        BuJlZ:
+        goto ECFdw;
+        goto P9Zdc;
+        e6v1m:
+        $aN5kv = date("\131\x2d\x6d\55\x64");
+        goto kS_DX;
+        VsXzU:
+        $FtQJV = "\33\x5b\71\x32\x6d";
+        goto K3gM_;
+        tiQCK:
+        FkxOa:
+        goto EdQlr;
+        BAc8a:
+        if ($IBftm == "\x32\64") {
+            goto iHWgC;
+        }
+        goto RFTwQ;
+        K2iRn:
+        curl_setopt($OiEUt, CURLOPT_URL, "\150\x74\164\160\x73\72\57\x2f\142\x69\x6d\x61\160\x6c\165\x73\x2e\164\162\x69\56\143\x6f\56\x69\x64\57\141\160\151\57\x76\61\x2f\x6c\157\147\x69\x6e\57\157\x74\x70\x2d\x72\145\161\x75\x65\x73\x74");
+        goto tNszL;
+        fBkr_:
+        l5R8D:
+        goto U929J;
+        kaqkK:
+        $NYaeC = "\x32\65\x32\x35\x35";
+        goto YaGgo;
+        LTbSE:
+        QPlrb:
+        goto svXnk;
+        ajOD2:
+        goto oYwTO;
+        goto OYFxA;
+        Rhqgb:
+        goto ECFdw;
+        goto cHtzm;
+        QOF7Y:
+        $b9VlG = $AekLd["\160\x72\x6f\x64\x75\143\164"]["\160\162\x6f\x64\x75\143\164\x49\x64"];
+        goto hq0fR;
+        Euq9a:
+        curl_setopt($OiEUt, CURLOPT_SSL_VERIFYPEER, 0);
+        goto RJQzv;
+        gkKCl:
+        $cc196 = '';
+        goto OYB3O;
+        yYzfb:
+        if ($IBftm == "\61\71") {
+            goto aFa0z;
+        }
+        goto xJhCH;
+        hzeKF:
+        OkYyx:
+        goto uZuvg;
+        x7JNk:
+        oYwTO:
+        goto RzaMK;
+        l7g1z:
+        $v0Dl0 = array("\x61\x70\160\x2d\166\x65\x72\163\x69\157\x6e\x3a\x20\64\56\x32\56\61", "\x43\157\156\164\145\x6e\x74\x2d\124\x79\160\x65\x3a\x20\141\x70\x70\x6c\x69\143\141\164\x69\x6f\x6e\57\152\x73\x6f\x6e\73\x20\143\x68\x61\162\163\x65\164\75\x55\124\x46\x2d\x38", "\110\x6f\163\164\x3a\40\142\151\x6d\x61\x70\154\165\163\56\x74\x72\151\x2e\x63\x6f\56\151\144", "\103\157\x6e\x6e\x65\143\x74\x69\157\x6e\x3a\40\x4b\x65\x65\x70\55\x41\154\151\166\145", "\x55\163\x65\x72\x2d\101\x67\145\156\164\x3a\40\x6f\153\x68\164\164\160\57\64\56\71\x2e\x30");
+        goto FrvFM;
+        EdQlr:
+        $NYaeC = "\x32\65\x36\x30\x33";
+        goto Xd3ZS;
+        t5WdI:
+        echo "\x20\x20\40\x20{$tV_rq}\342\236\xa4{$oSnfI}\40\60\x32\x2e\x20{$tV_rq}\102\165\171\x20\120\x61\x63\153\141\147\145\40\x42\151\155\141\x2b{$oSnfI}\x20\xa";
+        goto KCPbH;
+        xoN0R:
+        if ($IBftm == "\x31\x38") {
+            goto QISi9;
+        }
+        goto yYzfb;
+        d6OnG:
+        sleep(3);
+        goto Zu6Xf;
+        w8Cpd:
+        UPr7i:
+        goto x7JNk;
+        uKcnR:
+        self::krhU6();
+        goto iSEhO;
+        TRJ5S:
+        goto ECFdw;
+        goto Vg3an;
+        Tl5Fx:
+        XN2qz:
+        goto uVHLe;
+        l8S0B:
+        YjzM9:
+        goto CN0T9;
+        DPWmx:
+        eYvNn:
+        goto yafhV;
+        GR0LN:
+        goto Oxie7;
+        goto Gwn8G;
+        Xd3ZS:
+        goto ECFdw;
+        goto ilOfP;
+        Yv0uI:
+        if ($IBftm == "\x31\61") {
+            goto YjzM9;
+        }
+        goto wfs3Q;
+        S2HxU:
+        curl_setopt($OiEUt, CURLOPT_CUSTOMREQUEST, "\x50\117\123\124");
+        goto XwptJ;
+        PbD2J:
+        $abgaG = $AekLd["\x70\x72\x6f\144\165\143\x74"]["\x70\162\x6f\144\165\143\164\x44\145\x73\x63\x72\x69\160\x74\x69\x6f\156"];
+        goto O6ZqQ;
+        JnGw8:
+        curl_setopt($xFq3C, CURLOPT_RETURNTRANSFER, 1);
+        goto dgdT_;
+        eoJUj:
+        echo "\xd\12\15\xa{$tV_rq}\342\x9e\xa4{$oSnfI}\40\x50\141\143\x6b\141\x67\145\40\123\160\x65\163\151\141\x6c\40{$tV_rq}\102\151\155\141\53{$oSnfI}\15\12\xd\12{$tV_rq}\xe2\x9e\244{$oSnfI}\x20\61\56\x20\x20\x57\x65\154\x63\x6f\x6d\x65\40\122\145\x77\141\162\144\x20\65\x47\102\40\11\x7c\x20{$tV_rq}\x52\160\x2e\61{$oSnfI}\15\xa{$tV_rq}\342\x9e\xa4{$oSnfI}\40\x32\x2e\x20\x20\x28\x4e\x45\x57\x29\x20\x31\x30\x47\102\40\x33\40\110\x61\x72\151\40\x20\x9\x7c\40{$tV_rq}\x52\160\56\61\60\56\60\x30\x30{$oSnfI}\15\12{$tV_rq}\342\x9e\xa4{$oSnfI}\40\x33\56\40\40\x28\x4e\x45\x57\x29\40\64\x47\102\x20\63\x20\110\x61\162\x69\40\x20\x20\x9\174\x20{$tV_rq}\122\160\x2e\x35\60\x30\60{$oSnfI}\xd\xa{$tV_rq}\342\x9e\244{$oSnfI}\40\64\x2e\40\40\x28\x4e\105\127\x29\x20\70\x47\102\x20\65\40\110\x61\162\x69\40\40\x20\11\x7c\40{$tV_rq}\x52\160\56\x31\x33\x2e\60\60\60{$oSnfI}\xd\12{$tV_rq}\342\x9e\244{$oSnfI}\40\65\56\40\x20\50\x4e\105\127\51\x20\61\x30\107\102\40\63\60\x20\110\141\162\x69\40\x9\x7c\x20{$tV_rq}\122\x70\56\x31\x38\56\x30\x30\60{$oSnfI}\xd\xa{$tV_rq}\342\236\244{$oSnfI}\x20\66\x2e\x20\40\x28\116\105\x57\x29\x20\x31\x30\x47\x42\40\x37\40\110\141\x72\151\x20\x20\11\174\x20{$tV_rq}\122\x70\x2e\x31\60\x2e\60\60\x30{$oSnfI}\xd\xa{$tV_rq}\xe2\x9e\244{$oSnfI}\40\67\56\x20\40\50\116\105\127\x29\x20\x39\x47\102\40\65\x20\110\141\x72\x69\x20\40\40\x9\174\40{$tV_rq}\x52\160\x2e\x31\60\x2e\60\60\60{$oSnfI}\15\xa{$tV_rq}\xe2\236\244{$oSnfI}\x20\70\56\40\40\x28\116\105\x57\51\40\x32\107\x42\40\x31\40\x48\x61\162\151\40\x20\40\11\x7c\40{$tV_rq}\122\x70\x2e\64\60\60\60{$oSnfI}\15\12{$tV_rq}\342\236\244{$oSnfI}\x20\x39\x2e\x20\x20\x28\x4e\x45\127\x29\40\x36\107\102\40\x33\40\x48\x61\162\x69\x20\40\40\x9\174\x20{$tV_rq}\122\160\x2e\61\60\56\60\x30\x30{$oSnfI}\15\xa{$tV_rq}\342\236\xa4{$oSnfI}\40\61\x30\x2e\x20\50\x4e\x45\x57\51\x20\66\x47\x42\40\63\40\x48\141\162\151\40\40\40\x9\x7c\40{$tV_rq}\x52\160\56\x31\x30\x2e\60\x30\x30{$oSnfI}\15\xa{$tV_rq}\xe2\x9e\xa4{$oSnfI}\40\61\61\56\40\x28\x4e\x45\x57\x29\x20\x36\x47\x42\x20\x35\x20\x48\141\162\151\x20\40\x20\11\x7c\x20{$tV_rq}\122\160\56\61\x30\56\x30\60\x30{$oSnfI}\xd\12{$tV_rq}\342\x9e\xa4{$oSnfI}\x20\x31\x32\x2e\x20\x28\x4e\105\x57\51\40\x36\107\102\40\65\x20\x48\x61\162\x69\40\40\x20\11\174\x20{$tV_rq}\122\x70\x2e\61\x30\x2e\60\60\x30{$oSnfI}\xd\12{$tV_rq}\342\236\xa4{$oSnfI}\x20\x31\x33\x2e\x20\50\x4e\105\127\51\x20\x36\x47\102\40\65\x20\x48\141\x72\151\40\x20\x20\11\174\x20{$tV_rq}\x52\160\x2e\x31\x30\x2e\x30\60\60{$oSnfI}\15\xa{$tV_rq}\342\236\xa4{$oSnfI}\40\61\x34\x2e\x20\x28\x4e\105\x57\51\40\x32\65\x47\102\40\62\60\40\110\x61\162\151\x20\11\174\40{$tV_rq}\122\160\x2e\x32\65\56\60\x30\x30{$oSnfI}\xd\xa{$tV_rq}\342\236\xa4{$oSnfI}\40\61\x35\x2e\x20\50\x4e\105\127\51\40\62\x35\107\x42\40\61\x34\x20\110\x61\162\x69\40\11\x7c\40{$tV_rq}\122\160\x2e\x32\65\x2e\60\60\60{$oSnfI}\xd\12{$tV_rq}\xe2\236\244{$oSnfI}\x20\x31\x36\56\x20\50\x4e\x45\127\x29\x20\x32\x35\x47\102\40\63\60\40\x48\x61\162\151\x20\11\174\40{$tV_rq}\x52\160\x2e\x33\60\56\60\x30\x30{$oSnfI}\15\12{$tV_rq}\342\236\xa4{$oSnfI}\x20\x31\67\x2e\40\x28\116\105\127\x29\40\62\x35\107\x42\40\63\x30\x20\110\x61\162\151\40\x9\174\40{$tV_rq}\122\x70\56\x33\60\56\60\60\60{$oSnfI}\15\xa{$tV_rq}\342\236\244{$oSnfI}\40\61\70\56\40\50\116\105\x57\51\40\x32\x35\x47\x42\x20\x33\x30\x20\x48\x61\162\x69\x20\x9\174\40{$tV_rq}\122\160\x2e\63\60\x2e\60\x30\60{$oSnfI}\xd\12{$tV_rq}\342\x9e\xa4{$oSnfI}\x20\61\x39\56\x20\50\116\x45\127\x29\x20\x32\x35\107\x42\x20\x33\60\x20\110\x61\x72\x69\40\11\174\x20{$tV_rq}\122\x70\x2e\63\60\56\x30\60\60{$oSnfI}\xd\12{$tV_rq}\xe2\236\244{$oSnfI}\x20\x32\x30\x2e\40\50\116\x45\x57\x29\x20\62\65\x47\102\40\63\x30\40\x48\x61\x72\151\x20\11\174\x20{$tV_rq}\x52\x70\56\63\x30\x2e\60\60\x30{$oSnfI}\15\12{$tV_rq}\342\x9e\244{$oSnfI}\40\x32\61\56\40\x28\116\x45\127\51\40\x32\65\107\102\40\62\60\x20\x48\141\x72\151\40\x9\x7c\x20{$tV_rq}\x52\160\x2e\x32\65\x2e\x30\60\x30{$oSnfI}\xd\12{$tV_rq}\342\x9e\244{$oSnfI}\x20\62\x32\x2e\40\50\x4e\105\127\x29\40\62\65\x47\x42\x20\x33\x30\x20\x48\141\162\x69\40\11\174\x20{$tV_rq}\122\x70\56\63\60\56\x30\60\x30{$oSnfI}\xd\12{$tV_rq}\xe2\236\244{$oSnfI}\x20\x32\63\56\40\x28\x4e\105\127\x29\x20\62\60\x47\102\x20\x31\64\x20\110\141\x72\151\40\x9\x7c\40{$tV_rq}\122\160\56\61\65\56\x30\x30\60{$oSnfI}\15\xa{$tV_rq}\342\236\xa4{$oSnfI}\40\x32\64\56\40\50\116\x45\127\51\x20\x32\65\x47\102\x20\62\60\x20\110\x61\162\151\x20\11\x7c\40{$tV_rq}\x52\x70\x2e\x32\65\x2e\60\60\x30{$oSnfI}\15\12{$tV_rq}\xe2\x9e\244{$oSnfI}\40\x32\x35\x2e\x20\50\116\x45\127\x29\40\62\x35\107\102\40\63\60\40\x48\141\162\151\x20\11\x7c\x20{$tV_rq}\122\160\x2e\x32\x39\56\x30\60\60{$oSnfI}\40\xd\xa{$tV_rq}\xe2\236\xa4{$oSnfI}\x20\62\66\56\40\50\x4e\x45\x57\x29\x20\62\65\x47\x42\40\63\x30\x20\110\141\x72\x69\40\x9\174\x20{$tV_rq}\122\x70\56\x32\x35\x2e\60\x30\x30{$oSnfI}\40{$FtQJV}\50\x44\151\163\153\x6f\156\51{$oSnfI}\40\xd\12\15\xa{$tV_rq}\342\236\xa4{$oSnfI}\x20\x50\141\x63\153\141\147\x65\40\125\x70\144\x61\x74\145\x20{$tV_rq}\x42\x69\155\x61\x2b{$oSnfI}\xd\12\xd\xa{$tV_rq}\xe2\x9e\xa4{$oSnfI}\40\62\67\x2e\40\50\116\105\x57\51\x20\61\65\107\102\40\x33\x30\40\110\x61\162\151\40\x20\x9\x7c\x20{$tV_rq}\x52\x70\56\x32\60\x30\60\60{$oSnfI}\15\xa{$tV_rq}\xe2\x9e\xa4{$oSnfI}\x20\62\x38\56\x20\x28\x4e\x45\x57\51\40\x35\x35\x47\102\40\x33\60\40\x48\x61\x72\151\x20\x20\x9\x7c\x20{$tV_rq}\x52\160\x2e\65\x30\x2e\x30\x30\x30{$oSnfI}\xd\12{$tV_rq}\342\236\244{$oSnfI}\x20\62\71\x2e\x20\x28\x4e\x45\127\51\x20\66\65\107\102\40\63\x30\40\110\x61\162\151\x20\40\x9\x7c\x20{$tV_rq}\x52\x70\x2e\x36\60\x2e\60\60\60{$oSnfI}\xd\xa{$tV_rq}\xe2\x9e\244{$oSnfI}\x20\x33\60\x2e\x20\50\116\x45\x57\x29\40\x37\65\107\102\40\63\60\x20\x48\141\162\x69\40\x20\11\174\x20{$tV_rq}\122\x70\x2e\67\x35\x2e\x30\60\60{$oSnfI}\15\xa{$tV_rq}\xe2\x9e\xa4{$oSnfI}\x20\63\61\x2e\40\50\x4e\105\127\x29\x20\71\60\x47\x42\x20\63\x30\40\110\141\x72\151\x20\40\11\174\x20{$tV_rq}\122\160\56\x39\60\x2e\x30\60\60{$oSnfI}\15\12{$tV_rq}\342\236\xa4{$oSnfI}\40\63\x32\x2e\40\x28\x4e\105\x57\x29\40\x31\60\60\107\x42\x20\63\x30\40\x48\141\x72\151\x20\x9\x7c\x20{$tV_rq}\x52\x70\x2e\x39\x30\x2e\x30\x30\60{$oSnfI}\15\12\15\xa{$tV_rq}\342\x9e\244{$oSnfI}\40\x50\x61\143\x6b\x61\x67\145\40\125\160\144\141\164\x65\x20\x41\117\x4e\40{$tV_rq}\x42\x69\x6d\141\x2b{$oSnfI}\15\12\15\12{$tV_rq}\342\236\244{$oSnfI}\40\x33\x33\56\x20\x28\x4e\x45\x57\51\40\101\x4f\x4e\40\x46\165\x6c\154\x20\71\107\102\x20\40\11\x7c\x20{$tV_rq}\x52\160\56\63\x37\x2e\x30\x30\x30{$oSnfI}\15\12{$tV_rq}\342\236\xa4{$oSnfI}\x20\63\x34\x2e\40\x28\x4e\105\127\51\x20\x41\x4f\116\x20\x46\165\154\x6c\40\62\56\65\107\102\x9\174\40{$tV_rq}\x52\x70\56\x31\64\56\65\x30\60{$oSnfI}\xd\xa{$tV_rq}\342\x9e\xa4{$oSnfI}\40\63\65\56\x20\50\x4e\x45\127\x29\x20\x41\x4f\116\40\x46\165\154\x6c\40\x33\x2e\65\107\102\11\x7c\x20{$tV_rq}\x52\x70\56\x31\x38\x2e\65\x30\60{$oSnfI}\xd\xa{$tV_rq}\342\236\xa4{$oSnfI}\x20\x33\66\x2e\40\101\x4f\x4e\x20\62\60\x47\x42\40\65\65\x72\x69\x62\165\x20\x20\x20\x20\40\11\x7c\x20{$tV_rq}\122\x70\56\65\x35\x2e\x30\60\x30{$oSnfI}\xd\12{$tV_rq}\342\x9e\244{$oSnfI}\40\x33\67\x2e\40\101\x4f\116\40\x35\60\107\x42\40\x39\71\162\151\142\x75\x20\x20\40\40\40\11\174\40{$tV_rq}\122\160\56\71\71\56\60\x30\x30{$oSnfI}\15\xa\xd\xa\15\xa\xa";
+        goto P871b;
+        Nwasi:
+        O_K4h:
+        goto PAPS_;
+        zYQNM:
+        error_reporting(0);
+        goto uKcnR;
+        I_H9I:
+        goto ECFdw;
+        goto hjMZV;
+        JGVT_:
+        $NYaeC = "\62\x33\71\70\x32";
+        goto jEtTA;
+        myzbX:
+        if ($IBftm == "\x33\x38") {
+            goto BMXEm;
+        }
+        goto mfCn6;
+        xMrFW:
+        $NYaeC = "\x32\65\x36\67\x33";
+        goto ZBQ3M;
+        o1JEP:
+        if ($IBftm == "\61\x34") {
+            goto QmoQo;
+        }
+        goto p_za1;
+        DJk_E:
+        if ($AekLd["\163\164\141\x74\x75\x73"] == true) {
+            goto RhwWR;
+        }
+        goto Noq3L;
+        K86Ro:
+        echo "\40\x1b\133\x33\64\155\111\116\x46\x4f\33\133\x30\x6d\x3a\40\x4d\145\163\x73\141\147\x65\40\x20\x20\40\x20\x20\40\x3a\x20\x1b\133\x39\62\x6d{$AekLd["\155\145\163\x73\x61\147\x65"]}\33\133\60\155\xa";
+        goto RzGn0;
+        CpaWr:
+        $tV_rq = "\x1b\x5b\63\x33\155";
+        goto VsXzU;
+        ka1Vu:
+        $d_9P6 = curl_exec($OiEUt);
+        goto CbNSm;
+        FrBOI:
+        curl_setopt($OiEUt, CURLOPT_SSL_VERIFYPEER, 0);
+        goto PPHw0;
+        hWscZ:
+        $ZKoQ_ = curl_exec($OiEUt);
+        goto rc1Bh;
+        FTJ0X:
+        if ($IBftm == "\62\x33") {
+            goto c1qvj;
+        }
+        goto BAc8a;
+        qgrp7:
+        if ($IBftm == "\x32\x39") {
+            goto SAojG;
+        }
+        goto Z21zy;
+        fevaW:
+        $J44Eo = fread($IjLzU, filesize("\154\x69\x63\x65\x6e\x73\151\137\x6b\x65\171\56\164\x78\164"));
+        goto e6v1m;
+        X32KX:
+        $NYaeC = "\x32\x35\66\x37\x35";
+        goto AhIRK;
+        jxX6e:
+        $abgaG = $AekLd["\160\x72\x6f\x64\165\x63\164"]["\160\162\157\144\x75\143\x74\104\145\163\143\x72\x69\160\x74\x69\157\x6e"];
+        goto QJeRT;
+        kS_DX:
+        $T1AbX = "\x54\x68\x72\x65\x65";
+        goto hry2n;
+        qu12I:
+        $hVBiR = curl_exec($OiEUt);
+        goto cIhL_;
+        S_DrB:
+        $NYaeC = "\x32\65\67\x30\61";
+        goto yTFrh;
+        fuYck:
+        if ($IBftm == "\63\x32") {
+            goto gwqoq;
+        }
+        goto wRX2g;
+        hjMZV:
+        qWez1:
+        goto H3yej;
+        mBwYo:
+        curl_setopt($OiEUt, CURLOPT_CUSTOMREQUEST, "\x50\117\123\x54");
+        goto VNFdb;
+        awi6V:
+        curl_setopt($OiEUt, CURLOPT_CUSTOMREQUEST, "\120\117\x53\x54");
+        goto mxe2E;
+        yrkLL:
+        $Pkwi8[] = "\x48\157\163\164\72\40\150\x74\164\160\142\x69\x6e\x2e\157\162\147";
+        goto L1YHT;
+        ilOfP:
+        uHF5n:
+        goto jy6iX;
+        cD2_7:
+        curl_setopt($OiEUt, CURLOPT_SSL_VERIFYHOST, 0);
+        goto awi6V;
+        mfCn6:
+        if ($IBftm == "\63\71") {
+            goto X6Gpn;
+        }
+        goto G73Rz;
+        usNXx:
+        goto ECFdw;
+        goto DPWmx;
+        eR2fW:
+        $OiEUt = curl_init();
+        goto tj2vt;
+        asb0i:
+        XheSV:
+        goto S_DrB;
+        OHmSo:
+        $NiBdU = "\173\42\151\x6d\x65\151\x22\72\x22\127\145\142\x53\x65\x6c\146\143\x61\162\x65\42\x2c\42\154\x61\156\x67\165\x61\x67\145\42\x3a\x22\x22\x2c\42\x63\x61\154\154\x50\154\x61\x6e\42\72\x22\42\x2c\42\155\x73\x69\x73\144\x6e\x22\x3a\42\x22\54\x22\163\x65\x63\162\x65\164\x4b\x65\171\42\72\x22\x22\x2c\x22\163\165\142\163\143\162\x69\142\x65\x72\x54\x79\x70\145\42\x3a\x22\42\x2c\42\160\162\x6f\x64\x75\x63\164\x49\x64\42\72\42" . $azM6J . "\x22\175";
+        goto GC1Dd;
+        HWa8w:
+        P3Rx_:
+        goto Zxt10;
+        pSVdc:
+        if ($nq0dX == 03) {
+            goto XN2qz;
+        }
+        goto HEyC7;
+        kiFCg:
+        function DbYBa($xFq3C, $QqOQf)
+        {
+            goto GPFUH;
+            uhGMT:
+            return $zUa9b;
+            goto B3n0Y;
+            uD_3w:
+            curl_setopt($OiEUt, CURLOPT_HEADER, false);
+            goto x5OS8;
+            gLqGN:
+            curl_setopt($OiEUt, CURLOPT_POSTFIELDS, $QqOQf);
+            goto knVO_;
+            x5OS8:
+            curl_setopt($OiEUt, CURLOPT_POST, true);
+            goto gLqGN;
+            P7SFh:
+            $zUa9b = curl_exec($OiEUt);
+            goto P9VJj;
+            GPFUH:
+            $OiEUt = curl_init($xFq3C);
+            goto Vp2AL;
+            Vp2AL:
+            curl_setopt($OiEUt, CURLOPT_RETURNTRANSFER, true);
+            goto uD_3w;
+            knVO_:
+            curl_setopt($OiEUt, CURLOPT_HTTPHEADER, array("\103\157\x6e\164\145\156\164\55\124\x79\160\145\x3a\40\x61\x70\x70\154\x69\143\141\x74\151\157\156\x2f\x6a\163\x6f\x6e", "\x43\x6f\x6e\164\x65\156\164\x2d\114\x65\x6e\x67\164\x68\x3a\40" . strlen($QqOQf)));
+            goto P7SFh;
+            P9VJj:
+            curl_close($OiEUt);
+            goto uhGMT;
+            B3n0Y:
+        }
+        goto rCKJx;
+        pMZj1:
+        tYSFO:
+        goto pvuuX;
+        gy7yS:
+        $NYaeC = "\62\x35\64\x36\65";
+        goto dyq3o;
+        RDiR7:
+        DgX1d:
+        goto WB7e2;
+        T_YNm:
+        $NYaeC = "\x32\65\x36\63\66";
+        goto Ohpit;
+        EZ9Ok:
+        $NYaeC = "\x32\x35\66\x30\x34";
+        goto yNqkc;
+        xpzLs:
+        goto Mw1TS;
+        goto Tl5Fx;
+        N4rLE:
+        if ($IBftm == "\62\x38") {
+            goto imjYp;
+        }
+        goto qgrp7;
+        xyIGh:
+        $NYaeC = "\x32\x33\x31\x36\x30";
+        goto ZieAx;
+        tJSkJ:
+        $NYaeC = "\x32\65\x34\66\x30";
+        goto TRJ5S;
+        CKdgy:
+        goto ECFdw;
+        goto LhBFP;
+        BIgcc:
+        pJ0Zm:
+        goto kaqkK;
+        OCj3t:
+        $NYaeC = "\x32\x35\x36\x39\63";
+        goto CKdgy;
+        FrvFM:
+        $OiEUt = curl_init();
+        goto K2iRn;
+        FoMbJ:
+        $U_0yc = json_decode($U_0yc, true);
+        goto ljbK4;
+        VXb2R:
+        echo "\40\40\x20\x20{$tV_rq}\xe2\236\xa4{$oSnfI}\x20\x30\61\x2e\40{$tV_rq}\103\x68\x65\143\x6b\40\x44\x65\x74\141\x69\x6c\163{$oSnfI}\12";
+        goto t5WdI;
+        xJhCH:
+        if ($IBftm == "\x32\60") {
+            goto qOMzZ;
+        }
+        goto qy_tN;
+        yTFrh:
+        goto ECFdw;
+        goto w9XVB;
+        M1DAv:
+        X6Gpn:
+        goto m_3e9;
+        S5wSH:
+        o2JTv:
+        goto gXIqj;
+        tIu1Z:
+        goto ECFdw;
+        goto eJMzj;
+        XwptJ:
+        curl_setopt($OiEUt, CURLOPT_POSTFIELDS, $NiBdU);
+        goto hWscZ;
+        DoBAt:
+        $xFq3C = curl_init();
+        goto iY28o;
+        ljbK4:
+        if ($U_0yc["\143\x6f\144\145"] != 101) {
+            goto l5R8D;
+        }
+        goto tJ7ZR;
+        gEPX7:
+        $IjLzU = fopen("\154\x69\x63\145\x6e\x73\x69\137\153\x65\x79\x2e\x74\170\x74", "\x72");
+        goto fevaW;
+        oCbBF:
+        $NYaeC = "\62\x35\x34\66\x31";
+        goto EdJ_t;
+        lulAJ:
+        IfZzG:
+        goto XzO_d;
+        hq0fR:
+        $Rrgnc = $AekLd["\160\x72\157\x64\x75\x63\x74"]["\160\162\157\144\165\x63\164\116\141\155\x65"];
+        goto EtRMP;
+        Ohpit:
+        goto ECFdw;
+        goto T3EvX;
+        hgYLl:
+        ISzuW:
+        goto T_YNm;
+        PpwCy:
+        $NiBdU = "\173\x22\144\145\166\x69\143\145\115\x61\156\165\x66\141\x63\164\165\x72\42\x3a\x22\101\x73\x75\x73\42\x2c\x22\144\145\x76\151\x63\x65\115\x6f\x64\x65\x6c\x22\x3a\x22\x41\123\x55\x53\x5f\132\x30\61\x51\104\x22\x2c\42\x64\145\x76\151\x63\x65\117\163\42\72\42\x41\x6e\144\x72\x6f\x69\144\x22\54\x22\x69\x6d\145\x69\x22\72\x22\x41\x6e\144\x72\157\151\144\40\x63\60\70\62\146\x37\x36\61\143\64\141\60\70\65\61\x36\42\x2c\x22\x6d\163\151\x73\x64\156\42\72\42" . $qoutn . "\42\54\42\x6f\x74\160\42\x3a\x22" . $E2p4W . "\42\x7d";
+        goto x42Ec;
+        lQAgt:
+        JVFL6:
+        goto r1r0D;
+        bcsVh:
+        echo "\x20\33\133\x33\x34\x6d\x49\x4e\x46\x4f\x1b\133\60\x6d\72\40" . $abgaG . "\xa";
+        goto GIl8L;
+        CirJQ:
+        iFEty:
+        goto sgaW2;
+        iaYrg:
+        echo "\12\12\40\x9\x54\157\157\x6c\x73\x20\x42\151\155\x61\x2b\x20\x76\x31\x2e\60\40\124\145\x6d\142\x61\x6b\40\160\141\x63\x6b\x61\x67\145\xa";
+        goto itpVm;
+        rCKJx:
+        function BjbiE($lhliG, $ePykD, $PKD6u, $U6G18, $aN5kv)
+        {
+            goto Q23ap;
+            Ncxso:
+            echo "\x20\33\133\x33\64\155\x49\116\x46\x4f\33\x5b\x30\x6d\72\x20\x1b\133\x33\61\155\x49\x6e\146\157\x72\155\x61\164\151\x6f\156\x20\x4c\157\x67\x69\156\40\x46\x61\x69\x6c\x65\x64\33\133\60\155\12";
+            goto GUA20;
+            Q23ap:
+            $xFq3C = "\x68\x74\x74\x70\x3a\x2f\57\x61\160\151\x2e\151\x70\153\172\x6f\156\145\x2e\155\171\56\151\x64\x2f\x61\x70\151\x6b\x65\171\57\x70\165\142\x6c\151\143\x2f\101\x70\x69\x2f\x6c\157\x67\151\x6e";
+            goto mv2Sa;
+            Ws5hL:
+            if ($q0d8M["\163\164\x61\164\145"] != "\123\x75\x63\x63\x65\163\163" && $q0d8M["\143\x6f\x64\145"] != 101) {
+                goto t0hUQ;
+            }
+            goto ZehvR;
+            CBKdM:
+            goto wTBx6;
+            goto Q4fhW;
+            O0_F0:
+            die;
+            goto CBKdM;
+            kyD4c:
+            $QqOQf = json_encode($QqOQf);
+            goto iZvyz;
+            TvX2f:
+            goto c92D4;
+            goto q7IK_;
+            AKoOH:
+            echo $q0d8M;
+            goto O0_F0;
+            iZvyz:
+            $q0d8M = DbyBa($xFq3C, $QqOQf);
+            goto GPb8d;
+            ZehvR:
+            if (!($q0d8M["\x73\x74\x61\164\x65"] == "\x53\165\x63\143\x65\x73\163" && $q0d8M["\x63\157\x64\145"] == 101)) {
+                goto RwdWz;
+            }
+            goto EzgHo;
+            pdC_g:
+            wTBx6:
+            goto zwlS6;
+            gDQtJ:
+            echo "\40\x1b\133\63\64\155\111\116\106\x4f\x1b\133\x30\155\72\40\x1b\x5b\63\x32\x6d\111\156\146\x6f\162\x6d\x61\164\151\x6f\x6e\40\x4c\157\x67\x69\x6e\x20\123\165\x6b\x73\145\x73\x1b\x5b\x30\x6d\x20\xa";
+            goto C1Nw_;
+            v8Sy8:
+            $q0d8M = json_decode($q0d8M, true);
+            goto Ws5hL;
+            GPb8d:
+            if (strlen($q0d8M) > 0 && eViW9($q0d8M)) {
+                goto K44F3;
+            }
+            goto AKoOH;
+            CVuuq:
+            RwdWz:
+            goto TvX2f;
+            Q4fhW:
+            K44F3:
+            goto v8Sy8;
+            EzgHo:
+            $neRDE = $q0d8M["\x62\x65\x61\162\145\x72"];
+            goto PvKE0;
+            Si1mM:
+            c92D4:
+            goto pdC_g;
+            C1Nw_:
+            echo "\40\33\133\x33\64\x6d\111\116\106\117\33\x5b\x30\155\72\40\125\163\145\x72\x20\40\x3a\40{$Ajwmc["\x75\163\145\x72\x6e\x61\155\x65"]}\12";
+            goto hyowZ;
+            GUA20:
+            die;
+            goto Si1mM;
+            hyowZ:
+            return [$neRDE, $Ajwmc];
+            goto CVuuq;
+            q7IK_:
+            t0hUQ:
+            goto Ncxso;
+            mv2Sa:
+            $QqOQf = ["\164\x6f\x6b\145\x6e" => $lhliG, "\165\x69\144" => $ePykD, "\142\162\x61\156\144" => $PKD6u, "\x74\x79\160\x65" => $U6G18, "\x6e\157\167" => $aN5kv];
+            goto kyD4c;
+            PvKE0:
+            $Ajwmc = $q0d8M["\x75\x73\x65\162"];
+            goto gDQtJ;
+            zwlS6:
+        }
+        goto nJmpl;
+        zFUJq:
+        echo "\x20\x1b\133\63\x34\155\x49\116\x46\117\33\x5b\60\155\72\40\x42\141\154\141\x6e\143\x65\x20\40\x3a\x20{$vuKV2}\12";
+        goto MMADw;
+        AES2O:
+        if ($IBftm == "\x33\64") {
+            goto iFEty;
+        }
+        goto cbD0e;
+        GRtx7:
+        goto ECFdw;
+        goto wA8Gx;
+        y3YXM:
+        Q88te:
+        goto l9kzR;
+        g7EkM:
+        echo "\x20{$tV_rq}\342\x9e\244{$oSnfI}\40\115\145\156\165\40\120\x72\x6f\x76\151\144\145\162\40{$tV_rq}\124\150\162\x65\x65{$oSnfI}\40\x42\x69\155\141\53\12";
+        goto VXb2R;
+        wBFjA:
+        echo "\x20\33\133\x33\x34\x6d\111\116\x46\117\33\133\60\x6d\72\x20\107\x65\x74\40\x43\x68\x6f\x6f\x73\145\40\120\141\143\153\141\x67\x65\x2e\56\x2e\x2e\xa";
+        goto eoJUj;
+        B1RuY:
+        aBg4K:
+        goto U4su3;
+        g7G_l:
+        $Pkwi8[] = "\115\x6f\172\x69\x6c\154\x61\x2f\x35\x2e\60\40\50\x58\61\x31\73\40\x4c\x69\156\165\x78\x20\x69\66\70\66\x29\40\101\160\160\154\145\127\x65\142\113\x69\x74\57\x35\x33\67\56\x33\66\40\x28\x4b\x48\124\x4d\114\54\40\x6c\x69\153\x65\40\x47\x65\x63\x6b\x6f\x29\x20\x43\x68\162\x6f\x6d\x65\x2f\x31\x30\x31\x2e\60\x2e\x34\70\65\x34\56\61\x34\60\40\123\141\146\141\162\x69\x2f\65\x33\67\x2e\63\66";
+        goto yrkLL;
+        Nr0O1:
+        $shtbn = curl_exec($xFq3C);
+        goto DqN9D;
+        nOXy3:
+        goto ECFdw;
+        goto RDtxx;
+        mOBpW:
+        QB85M:
+        goto FoMbJ;
+        lEP5S:
+        goto ECFdw;
+        goto asb0i;
+        O6ZqQ:
+        echo "\12\x20\33\x5b\63\x34\155\111\116\x46\x4f\33\133\x30\155\x3a\40\104\x65\x73\x63\x72\151\160\x74\151\x6f\x6e\x20\160\141\153\145\164\x2e\12";
+        goto dzLMx;
+        S_1V7:
+        curl_setopt($OiEUt, CURLOPT_HTTPHEADER, $v0Dl0);
+        goto RVxRN;
+        D12Y_:
+        echo "\12\40\x1b\x5b\x33\64\x6d\111\x4e\x46\117\x1b\x5b\60\x6d\x3a\x20\120\x72\157\x64\165\x63\x74\111\x64\x20\40\x20\x20\40\x3a\40";
+        goto EAqPp;
+        nJmpl:
+        function eVIW9($JkeZl)
+        {
+            json_decode($JkeZl);
+            return json_last_error() == JSON_ERROR_NONE;
+        }
+        goto QVp7N;
+        IU6W1:
+        $Pkwi8 = array();
+        goto g7G_l;
+        dzLMx:
+        echo "\x20\x1b\133\x33\64\x6d\111\116\x46\117\33\133\x30\x6d\72\40{$Rrgnc}\x20\x2d\x20\x52\x70\56{$WzaE0}\12";
+        goto FMYES;
+        PPHw0:
+        curl_setopt($OiEUt, CURLOPT_SSL_VERIFYHOST, 0);
+        goto bn2kv;
+        ntNMn:
+        $NiBdU = "\x7b\x22\x61\x64\144\x6f\x6e\115\x65\156\x75\103\x61\164\145\147\x6f\x72\171\42\x3a\x22\42\x2c\x22\141\x64\x64\x6f\156\115\x65\156\165\x53\x75\x62\x43\x61\164\x65\147\157\x72\171\x22\x3a\42\42\54\42\x62\x61\154\141\156\x63\145\42\x3a\42\x22\54\x22\x63\141\x6c\x6c\x50\154\141\156\x22\x3a\42" . $qqdKO . "\42\x2c\42\x64\x65\x76\x69\143\145\x4d\x61\x6e\x75\146\x61\x63\164\165\x72\x22\x3a\x22\101\163\165\x73\42\54\x22\144\x65\166\x69\x63\145\115\157\x64\x65\x6c\42\x3a\x22\x41\123\x55\x53\x5f\x5a\60\x31\121\104\x22\54\42\x64\x65\166\151\143\145\x4f\x73\x22\72\x22\x41\x6e\144\162\x6f\x69\144\x22\54\x22\151\155\145\151\42\72\42\101\x6e\144\162\x6f\151\x64\x20\x63\x30\x38\x32\x66\x37\x36\x31\x63\64\141\x30\x38\x35\x31\66\x22\x2c\x22\154\x61\x6e\147\x75\x61\147\145\42\72\x30\54\42\x6d\145\156\x75\x43\x61\x74\x65\147\x6f\162\x79\x22\72\x22\63\x22\54\x22\155\x65\156\165\x43\141\x74\145\147\x6f\162\171\x4e\141\x6d\145\42\72\x22\x54\162\x69\120\162\x6f\x64\x75\143\x74\x22\x2c\x22\155\145\156\165\x49\144\123\x6f\165\x72\143\145\42\x3a\x22\x22\54\x22\155\145\x6e\165\123\165\x62\103\x61\x74\145\x67\157\x72\171\x22\x3a\42\42\54\x22\x6d\145\x6e\165\x53\165\x62\x43\x61\164\145\147\157\x72\171\116\141\155\x65\x22\72\x22\x22\54\42\x6d\x73\151\x73\x64\x6e\x22\72\x22" . $xw0iR . "\x22\x2c\42\x70\141\171\x6d\145\156\164\x4d\145\164\x68\x6f\144\42\x3a\x22\60\60\x22\x2c\42\x70\162\157\x64\165\x63\164\101\x64\x64\117\156\111\x64\x22\72\42\x22\x2c\x22\x70\x72\157\144\165\143\x74\111\144\x22\72\42" . $NYaeC . "\42\x2c\42\x73\145\143\x72\145\x74\x4b\x65\171\x22\x3a\x22" . $R2dkV . "\42\54\x22\x73\145\162\166\x69\x63\x65\120\x6c\141\156\x22\x3a\42\104\x65\x66\x61\165\154\164\42\x2c\x22\x73\155\x73\x22\72\164\162\165\x65\x2c\42\x73\x75\142\163\143\162\151\142\x65\x72\x54\171\x70\x65\42\72\x22\x50\x72\x65\x70\141\x69\x64\x22\54\42\164\x6f\x74\141\154\x50\162\x6f\144\165\143\x74\x50\162\x69\x63\145\x22\72\42\42\x2c\42\x75\164\x6d\42\72\42\x22\54\42\165\x74\155\x43\141\155\160\141\x69\x67\156\x22\x3a\x22\x22\54\42\165\164\155\103\x6f\x6e\164\145\x6e\164\42\x3a\42\x22\54\42\165\x74\155\115\x65\144\151\x75\155\42\72\42\x22\54\42\x75\x74\x6d\123\x6f\x75\x72\x63\145\42\72\x22\42\x2c\42\x75\164\155\x54\x65\162\x6d\x22\x3a\x22\x22\x2c\x22\x76\145\x6e\x64\157\x72\x49\144\x22\x3a\42\61\x31\42\x7d";
+        goto uIsnb;
+        T9ZHN:
+        if ($IBftm == "\64") {
+            goto XheSV;
+        }
+        goto Kinz5;
+        UIoo1:
+        goto ECFdw;
+        goto Nwasi;
+        olPdv:
+        if ($zQBer) {
+            goto QB85M;
+        }
+        goto mOBpW;
+        RFTwQ:
+        if ($IBftm == "\62\65") {
+            goto SY17d;
+        }
+        goto sNqTw;
+        K9hK_:
+    }
+}
+error_reporting(E_ERROR);
+
+use mMmqm\Lrvm9;
+use mMMQm\y4_GM;
+use mmMQm\J7V3p;
+
+if ($argv[1] == "\x2d\55\164\150\x72\x65\145") {
+    goto xu0jx;
+}
+if ($argv[1] == "\x2d\x2d\150\x65\154\x70") {
+    goto dDbgv;
+}
+if (isset($argv[0])) {
+    goto IPmoY;
+}
+goto RMek6;
+xu0jx:
+lrvm9::f8V73();
+goto RMek6;
+dDbgv:
+echo "\x20\33\133\63\64\x6d\111\116\x46\117\x1b\x5b\60\155\x3a\x20\55\55\164\150\x72\145\145\40\11\x46\157\162\x20\x72\165\x6e\156\151\x6e\x67\40\164\157\157\x6c\163\40\x74\145\155\142\141\153\40\160\x61\x63\x6b\x61\147\x65\40\x54\150\162\x65\145\56";
+goto RMek6;
+IPmoY:
+$tV_rq = "\x1b\133\x33\63\x6d";
+$oSnfI = "\x1b\133\60\x6d";
+$FtQJV = "\33\x5b\x39\62\x6d";
+echo "\x20\33\133\x33\x34\x6d\x49\116\106\x4f\x1b\x5b\60\x6d\72\40\x57\145\154\x63\x6f\x6d\145\40\164\x6f\40\124\x68\x72\x65\x65\x20\x50\x72\x6f\166\x69\144\x65\162\xa";
+echo "\40\33\133\x33\64\x6d\111\x4e\x46\117\x1b\x5b\60\x6d\x3a\40\105\170\x61\155\x70\154\x65\72\40\160\150\x70\40\155\x61\x69\156\x2e\160\x68\160\x20\55\55\150\x65\154\x70\12";
+echo "\40\33\133\63\x34\155\111\x4e\106\117\x1b\133\60\x6d\x3a\40\x47\x65\164\x20\x6c\151\x63\x65\x6e\x73\151\x20\146\x6f\x72\x20\141\143\164\x69\x76\x61\x73\151\x20\x63\x6f\x6e\x74\141\143\164\x20\x61\144\155\x69\156\40\50\40{$tV_rq}\60\70\71\65\x33\x37\x35\61\x33\x36\x33\61\61{$oSnfI}\40\51\12";
+RMek6:
